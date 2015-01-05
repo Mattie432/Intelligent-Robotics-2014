@@ -1,14 +1,45 @@
-\documentclass[]{report}
+\documentclass[]{article}
 \usepackage{graphicx}
 \usepackage[english]{babel}
-\graphicspath{ {./}{../../}{../}{TitlePage/}}
 \usepackage{standalone}
+\usepackage{multicol}
+\usepackage[a4paper]{geometry}
+
+\usepackage[normalem]{ulem}
+\usepackage{fixltx2e}
+\usepackage{color}
+\usepackage[hidelinks]{hyperref}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{float}
+
+
+
+%Paths for graphics locations
+\graphicspath{ {./}{../../}{../}{TitlePage/}{LiteratureReview/}}
 
 \begin{document}
-
+	%Insert title page
 	\input{TitlePage/TitlePage}
 	
-	Mobile robots are regularly used in many applications: from aiding disaster recovery efforts in mines and after earthquakes, to military uses such as roadside bomb detection. Recently, they have even been employed to explore the surface of Mars. This paper presents the design and development of a Mobile Robot inspired by the AAAI Mobile Robotics Competition, 1996: “Call a Meeting”, which stressed navigation and planning.  For our solution to the competition, we present an autonomous Mobile Robot that (a) searches for and finds an empty room (in terms of human presence) b) detects a human in a different room c) directs the human to the empty room. Our setup included a Pioneer 3-DX mobile robot, a Hokuyo URG-04LX laser sensor and a Toshiba i3 / 2GB RAM laptop. Notable features of our solution include a behavioural-based hybrid control architecture, ACML localization and a laser-based leg detection system for identifying persons.
+	%Insert the abstract
+    \pagenumbering{arabic}
+    \setcounter{page}{2}
+	\input{Abstract/Abstract}
+	
+	%table of contents
+	\newgeometry{bottom=2cm}
+	\tableofcontents
+	\newpage
 
+	%adjust page width for sections
+	\newgeometry{left=1.5cm,right=1.5cm,bottom=2cm,top=2cm}
+
+	\input{Introduction/Introduction}
+	\input{LiteratureReview/LiteratureReview}
+	%\input{Design/Design}
+	%\input{ExperimentalResults/ExperimentalResults}
+	%\input{Discussion/Discussion}
+	%\input{References/References}
 	
 \end{document}
