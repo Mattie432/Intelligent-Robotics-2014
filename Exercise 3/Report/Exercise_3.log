@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  5 JAN 2015 18:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  6 JAN 2015 00:24
 entering extended mode
 **Exercise_3.tex
 
@@ -254,17 +254,24 @@ Package ifvtex Info: VTeX not detected.
 \Gm@dimlist=\toks17
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-(D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\ulem\ulem.sty
-\UL@box=\box55
-\UL@hyphenbox=\box56
-\UL@skip=\skip45
-\UL@hook=\toks18
-\UL@height=\dimen132
-\UL@pe=\count105
-\UL@pixel=\dimen133
-\ULC@box=\box57
+(D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip45
+\enit@outerparindent=\dimen132
+\enit@toks=\toks18
+\enit@inbox=\box55
+\enitdp@description=\count105
+) (D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\ulem\ulem.sty
+\UL@box=\box56
+\UL@hyphenbox=\box57
+\UL@skip=\skip46
+\UL@hook=\toks19
+\UL@height=\dimen133
+\UL@pe=\count106
+\UL@pixel=\dimen134
+\ULC@box=\box58
 Package: ulem 2012/05/18
-\ULdepth=\dimen134
+\ULdepth=\dimen135
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
 Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
@@ -322,14 +329,14 @@ Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen135
-\Hy@linkcounter=\count106
-\Hy@pagecounter=\count107
+\@linkdim=\dimen136
+\Hy@linkcounter=\count107
+\Hy@pagecounter=\count108
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count108
+\Hy@SavedSpaceFactor=\count109
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -341,17 +348,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count109
+\c@Hy@tempcnt=\count110
 
 (D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen136
-\Fld@menulength=\count110
-\Field@Width=\dimen137
-\Fld@charsize=\dimen138
+\XeTeXLinkMargin=\dimen137
+\Fld@menulength=\count111
+\Field@Width=\dimen138
+\Fld@charsize=\dimen139
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -361,63 +368,92 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count111
-\c@Item=\count112
-\c@Hfootnote=\count113
+\Hy@abspage=\count112
+\c@Item=\count113
+\c@Hfootnote=\count114
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count114
-\c@bookmark@seq@number=\count115
+\Fld@listcount=\count115
+\c@bookmark@seq@number=\count116
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip46
+\Hy@SectionHShift=\skip47
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count116
-\float@exts=\toks19
-\float@box=\box58
-\@float@everytoks=\toks20
-\@floatcapt=\box59
+\c@float@type=\count117
+\float@exts=\toks20
+\float@box=\box59
+\@float@everytoks=\toks21
+\@floatcapt=\box60
+)
+(D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
+\wrapoverhang=\dimen140
+\WF@size=\dimen141
+\c@WF@wrappedlines=\count118
+\WF@box=\box61
+\WF@everypar=\toks22
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip48
+\LTright=\skip49
+\LTpre=\skip50
+\LTpost=\skip51
+\LTchunksize=\count119
+\LTcapwidth=\dimen142
+\LT@head=\box62
+\LT@firsthead=\box63
+\LT@foot=\box64
+\LT@lastfoot=\box65
+\LT@cols=\count120
+\LT@rows=\count121
+\c@LT@tables=\count122
+\c@LT@chunks=\count123
+\LT@p@ftn=\toks23
 )
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Exercise_3.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 (D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count117
-\scratchdimen=\dimen139
-\scratchbox=\box60
-\nofMPsegments=\count118
-\nofMParguments=\count119
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count120
-\MPscratchDim=\dimen140
-\MPnumerator=\count121
-\makeMPintoPDFobject=\count122
-\everyMPtoPDFconversion=\toks22
+\scratchcounter=\count124
+\scratchdimen=\dimen143
+\scratchbox=\box66
+\nofMPsegments=\count125
+\nofMParguments=\count126
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count127
+\MPscratchDim=\dimen144
+\MPnumerator=\count128
+\makeMPintoPDFobject=\count129
+\everyMPtoPDFconversion=\toks25
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -453,29 +489,41 @@ LaTeX Font Info:    ... okay on input line 21.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 21.
+\AtBeginShipoutBox=\box67
+Package hyperref Info: Link coloring OFF on input line 23.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count123
+\c@section@level=\count130
 )
-LaTeX Info: Redefining \ref on input line 21.
-LaTeX Info: Redefining \pageref on input line 21.
-LaTeX Info: Redefining \nameref on input line 21.
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
 
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Exercise_3.out")
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Exercise_3.out")
 \@outlinefile=\write3
+LaTeX Info: Redefining \celsius on input line 23.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 23.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 23.
+Package gensymb Info: Using \Omega for \ohm on input line 23.
+
+Package gensymb Warning: Not defining \micro.
+
 
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\TitlePage/TitlePage.tex"
-<TitlePage/university.jpg, id=67, 580.1675pt x 513.92pt>
+<TitlePage/university.jpg, id=171, 580.1675pt x 513.92pt>
 File: TitlePage/university.jpg Graphic file (type jpg)
 
 <use TitlePage/university.jpg>
@@ -604,10 +652,12 @@ Missing character: There is no ù in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-)
+) [4
+
+]
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\LiteratureReview/LiteratureReview.tex"
-<LiteratureReview/LiteratureReview1.png, id=102, 1606.0pt x 916.42375pt>
+<LiteratureReview/LiteratureReview1.png, id=236, 1606.0pt x 916.42375pt>
 File: LiteratureReview/LiteratureReview1.png Graphic file (type png)
 
 <use LiteratureReview/LiteratureReview1.png>
@@ -620,17 +670,8 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [4
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
-s been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.25 
-      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
-Exercise 3/Report/LiteratureReview/LiteratureReview1.png>]
-<LiteratureReview/LiteratureReview2.png, id=108, 1058.45438pt x 435.12563pt>
+<LiteratureReview/LiteratureReview2.png, id=237, 1058.45438pt x 435.12563pt>
 File: LiteratureReview/LiteratureReview2.png Graphic file (type png)
 
 <use LiteratureReview/LiteratureReview2.png>
@@ -643,6 +684,22 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+ [5pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.34 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.34 
+      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
+Exercise 3/Report/LiteratureReview/LiteratureReview1.png> <D:/Users/Mattie432/D
+ropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Literatur
+eReview/LiteratureReview2.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -652,14 +709,6 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [5pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.43 
-      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
-Exercise 3/Report/LiteratureReview/LiteratureReview2.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -675,33 +724,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 62.
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
 [6]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -714,9 +736,6 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -730,9 +749,6 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -751,41 +767,531 @@ Missing character: There is no ô in font cmr10!
  [7]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
- [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [8]) [9]
+("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
+ise 3\Report\Design/Design.tex"
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [10]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+) [11]
+("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
+ise 3\Report\ExperimentalResults/ExperimentalResults.tex"
+<ExperimentalResults/ExperimentalResults1.png, id=293, 641.39626pt x 407.5225pt
+>
+File: ExperimentalResults/ExperimentalResults1.png Graphic file (type png)
+ <use ExperimentalResults/ExperimentalResults1.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults1.png used on i
+nput line 31.
+(pdftex.def)             Requested size: 512.14963pt x 325.40904pt.
+
+<ExperimentalResults/ExperimentalResults2.png, id=295, 637.38126pt x 400.49625p
+t>
+File: ExperimentalResults/ExperimentalResults2.png Graphic file (type png)
+ <use ExperimentalResults/ExperimentalResults2.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults2.png used on i
+nput line 36.
+(pdftex.def)             Requested size: 512.14963pt x 321.80908pt.
+
+<ExperimentalResults/ExperimentalResults3.png, id=296, 643.40375pt x 377.41pt>
+File: ExperimentalResults/ExperimentalResults3.png Graphic file (type png)
+
+<use ExperimentalResults/ExperimentalResults3.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults3.png used on i
+nput line 41.
+(pdftex.def)             Requested size: 512.14963pt x 300.4311pt.
+ [12pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.43 	\end{figure}
+                   <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-R
+obotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults1.png>]
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.45 	\newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.45 	\newpage
+               <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robot
+ics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults2.png> <D:/Us
+ers/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/R
+eport/ExperimentalResults/ExperimentalResults3.png>]
+<ExperimentalResults/ExperimentalResults4.png, id=312, 641.39626pt x 334.24875p
+t>
+File: ExperimentalResults/ExperimentalResults4.png Graphic file (type png)
+ <use ExperimentalResults/ExperimentalResults4.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults4.png used on i
+nput line 53.
+(pdftex.def)             Requested size: 512.14963pt x 266.89954pt.
+
+<ExperimentalResults/ExperimentalResults5.png, id=313, 640.3925pt x 338.26375pt
+>
+File: ExperimentalResults/ExperimentalResults5.png Graphic file (type png)
+ <use ExperimentalResults/ExperimentalResults5.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults5.png used on i
+nput line 58.
+(pdftex.def)             Requested size: 512.14963pt x 270.52876pt.
+
+<ExperimentalResults/ExperimentalResults6.png, id=314, 642.4pt x 339.2675pt>
+File: ExperimentalResults/ExperimentalResults6.png Graphic file (type png)
+
+<use ExperimentalResults/ExperimentalResults6.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults6.png used on i
+nput line 63.
+(pdftex.def)             Requested size: 512.14963pt x 270.48772pt.
+ [14pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.65 	\end{figure}
+                   <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-R
+obotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults4.png>]
+<ExperimentalResults/ExperimentalResults7.png, id=321, 602.25pt x 372.39125pt>
+File: ExperimentalResults/ExperimentalResults7.png Graphic file (type png)
+
+<use ExperimentalResults/ExperimentalResults7.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults7.png used on i
+nput line 71.
+(pdftex.def)             Requested size: 512.14963pt x 316.7102pt.
+ [15pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.74 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.8
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.74 
+      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
+Exercise 3/Report/ExperimentalResults/ExperimentalResults5.png> <D:/Users/Matti
+e432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Exp
+erimentalResults/ExperimentalResults6.png>]
+<ExperimentalResults/ExperimentalResults8.png, id=330, 602.25pt x 372.39125pt>
+File: ExperimentalResults/ExperimentalResults8.png Graphic file (type png)
+
+<use ExperimentalResults/ExperimentalResults8.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults8.png used on i
+nput line 81.
+(pdftex.def)             Requested size: 512.14963pt x 316.7102pt.
+ [16pdfTeX warning (ext4): destination with the same identifier (name{figure.9}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.84 
+      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
+Exercise 3/Report/ExperimentalResults/ExperimentalResults7.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+<ExperimentalResults/ExperimentalResults9.png, id=337, 601.24625pt x 608.2725pt
+>
+File: ExperimentalResults/ExperimentalResults9.png Graphic file (type png)
+ <use ExperimentalResults/ExperimentalResults9.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults9.png used on i
+nput line 101.
+(pdftex.def)             Requested size: 230.46576pt x 233.16003pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 92--106
+[]$[]$ 
+ []
+
+
+<ExperimentalResults/ExperimentalResults10.png, id=338, 601.24625pt x 608.2725p
+t>
+File: ExperimentalResults/ExperimentalResults10.png Graphic file (type png)
+ <use ExperimentalResults/ExperimentalResults10.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults10.png used on 
+input line 118.
+(pdftex.def)             Requested size: 230.46576pt x 233.16003pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 108--123
+[]$[]$ 
+ []
+
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.124 	\subsection
+                  {Human Detection Testing}pdfTeX warning (ext4): destination w
+ith the same identifier (name{figure.11}) has been already used, duplicate igno
+red
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.124 	\subsection
+                  {Human Detection Testing} <D:/Users/Mattie432/Dropbox/Program
+ming/Python/Intelligent-Robotics-2014/Exercise 3/Report/ExperimentalResults/Exp
+erimentalResults8.png> <D:/Users/Mattie432/Dropbox/Programming/Python/Intellige
+nt-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults9.png
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\OT1/cmr/m/n/10 Average
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\OT1/cmr/m/n/10 Amount of
+ []
+
+[18pdfTeX warning (ext4): destination with the same identifier (name{figure.12}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.156 	\end{longtable}
+                       <D:/Users/Mattie432/Dropbox/Programming/Python/Intellige
+nt-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults10.pn
+g>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [19]
+<ExperimentalResults/ExperimentalResults11.png, id=358, 602.25pt x 372.39125pt>
+File: ExperimentalResults/ExperimentalResults11.png Graphic file (type png)
+<use ExperimentalResults/ExperimentalResults11.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults11.png used on 
+input line 196.
+(pdftex.def)             Requested size: 512.14963pt x 316.7102pt.
+
+<ExperimentalResults/ExperimentalResults12.png, id=359, 592.2125pt x 368.37625p
+t>
+File: ExperimentalResults/ExperimentalResults12.png Graphic file (type png)
+ <use ExperimentalResults/ExperimentalResults12.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults12.png used on 
+input line 205.
+(pdftex.def)             Requested size: 512.14963pt x 318.58485pt.
+ [20pdfTeX warning (ext4): destination with the same identifier (name{figure.13
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.208 	A
+        s evidenced by Figure x, 98\% of the time the robot avoided the boar...
+ <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exerc
+ise 3/Report/ExperimentalResults/ExperimentalResults11.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+<ExperimentalResults/ExperimentalResults13.png, id=366, 602.25pt x 372.39125pt>
+File: ExperimentalResults/ExperimentalResults13.png Graphic file (type png)
+<use ExperimentalResults/ExperimentalResults13.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults13.png used on 
+input line 214.
+(pdftex.def)             Requested size: 512.14963pt x 316.7102pt.
+ [21pdfTeX warning (ext4): destination with the same identifier (name{figure.14
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.217 	T
+        he feedback from the full-run tests was reassuring; the tests comple...
+ <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exerc
+ise 3/Report/ExperimentalResults/ExperimentalResults12.png>]) [22pdfTeX warning
+ (ext4): destination with the same identifier (name{figure.15}) has been alread
+y used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.47 	\newpage
+               <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robot
+ics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults13.png>]
+("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
+ise 3\Report\Discussion/Discussion.tex"
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+) [23]
+("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
+ise 3\Report\References/References.tex"
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+ [24]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [25])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
+ [26]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
 
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Exercise_3.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
 Package rerunfilecheck Info: File `Exercise_3.out' has not changed.
-(rerunfilecheck)             Checksum: EB48F7B7261457A504CC9D7BB6C1E26E;1127.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
+(rerunfilecheck)             Checksum: A632A88DD96695D34340513515610EEB;2952.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 7216 strings out of 493921
- 112095 string characters out of 3144864
- 206354 words of memory out of 3000000
- 10338 multiletter control sequences out of 15000+200000
+ 7908 strings out of 493921
+ 125221 string characters out of 3144864
+ 235120 words of memory out of 3000000
+ 10882 multiletter control sequences out of 15000+200000
  7693 words of font info for 28 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,8n,37p,1188b,388s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,10n,37p,1416b,506s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
 ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on Exercise_3.pdf (8 pages, 3792538 bytes).
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Exercise_3.pdf (26 pages, 4138920 bytes).
 PDF statistics:
- 170 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 144 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 503 PDF objects out of 1000 (max. 8388607)
+ 133 named destinations out of 1000 (max. 500000)
+ 417 words of extra memory for PDF output out of 10000 (max. 10000000)
 

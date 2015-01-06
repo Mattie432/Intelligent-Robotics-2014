@@ -4,19 +4,21 @@
 \usepackage{standalone}
 \usepackage{multicol}
 \usepackage[a4paper]{geometry}
-
+\usepackage{enumitem}
 \usepackage[normalem]{ulem}
 \usepackage{fixltx2e}
 \usepackage{color}
 \usepackage[hidelinks]{hyperref}
-\usepackage{graphicx}
-\usepackage{multicol}
 \usepackage{float}
+\usepackage{gensymb}
+\usepackage{wrapfig}
+\usepackage{longtable}
+
 
 
 
 %Paths for graphics locations
-\graphicspath{ {./}{../../}{../}{TitlePage/}{LiteratureReview/}}
+\graphicspath{ {./}{../../}{../}{TitlePage/}{LiteratureReview/}{ExperimentalResults/}}
 
 \begin{document}
 	%Insert title page
@@ -36,10 +38,15 @@
 	\newgeometry{left=1.5cm,right=1.5cm,bottom=2cm,top=2cm}
 
 	\input{Introduction/Introduction}
+	\newpage
 	\input{LiteratureReview/LiteratureReview}
-	%\input{Design/Design}
-	%\input{ExperimentalResults/ExperimentalResults}
-	%\input{Discussion/Discussion}
-	%\input{References/References}
+	\newpage
+	\input{Design/Design}
+	\newpage
+	\input{ExperimentalResults/ExperimentalResults}
+	\newpage
+	\input{Discussion/Discussion}
+	\newpage
+	\input{References/References}
 	
 \end{document}

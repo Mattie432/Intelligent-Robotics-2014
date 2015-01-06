@@ -1,0 +1,29 @@
+\documentclass{article}
+\usepackage{enumitem}
+\usepackage{gensymb}
+\usepackage[normalem]{ulem}
+\usepackage{fixltx2e}
+\usepackage{color}
+\usepackage[hidelinks]{hyperref}
+\usepackage{graphicx}
+\usepackage[top=2cm,bottom=2cm,left=3cm,right=3cm]{geometry}
+\usepackage{multicol}
+\usepackage{float}
+
+\usepackage{wrapfig}
+\usepackage{longtable}
+
+
+
+\begin{document}
+    \section{Discussion}
+    \subsection{Conclusions and Future Work}
+    We developed a robot that  can demonstrably and robustly fulfill all the criteria as set by the task, ‘Call a Meeting’. All of our design choices were mediated through experimentation, reference to background literature, as well as availability and feasibility of resources. The success of the project was the result of adopting and integrating relevant and well-developed modules from the ROS framework in combination with an overall planning scheme to solve the complete task.
+
+	Nonetheless, there are several areas the project could have been improved, including:  More thorough person detection through combining the leg detection module with a slower, facial recognition method (once the leg detector records a possible person) to reduce false positives and increase certainty of the presence of a person. In fact, we did research and consider this option as a team (and had a working facial recognition module) but did not achieve integration within sufficient time. We felt that it was better to leave it out and maintain the existing (and robust) solution we had that used only leg detection. Confirmation of the presence of a person (or lack thereof) could have been achieved using speech recognition as opposed to a keypress from the person (such as ‘say yes if you wish to come to the meeting’). The robot could have also scanned the room/s more thoroughly for the presence of a person; in its current implementation it enters the room, and then scans a 180 degree arc from an angle. In so doing, the corners behind the robot are missed. We rationalized as a team that it would be extremely unlikely for someone to be stood in the corner of a room behind where we set the robot to scan (at an angle from the entrance door), but adding a more thorough room scan is definitely a strong consideration for potential future improvements.
+	
+	\subsection{Acknowledgements}
+	The Authors of this paper would like to thank the ROS development team for providing a stable platform for robotics development. Also, we thank all the module convenors and demonstrators of the Intelligent Robotics Module at the University of Birmingham, UK, for their hard work and guidance throughout the entire module and this task in particular.
+
+    
+\end{document}
