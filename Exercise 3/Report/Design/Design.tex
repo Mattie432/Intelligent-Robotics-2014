@@ -28,7 +28,7 @@ The core concepts of ROS are packages, nodes, topics, messages and services. A n
 	For the overall control design we followed a behaviourally inspired hybrid approach. We felt this best fit the problem scope; we knew exactly what tasks we needed to execute (and in what order), and we were dealing with a semi-structured environment. Our challenge was thus to integrate the a-priori world knowledge with reactive behaviours such as obstacle avoidance. 
 
 Our hierarchical planner was structured into a series of sequential steps as per the task requirements. These are, in order:
-\lstset{numbers=left, breaklines=true,morekeywords={IF, ELSE, goto, then, and}, keywordstyle=\color{blue},frame=single}
+\lstset{numbers=left, breaklines=true,morekeywords={IF, ELSE, goto, then, and}, keywordstyle=\color{blue}}
 \begin{lstlisting}
 Localise in respect to the map
 Navigate to the hard-coded coordinates of the first room and position to scan the room.

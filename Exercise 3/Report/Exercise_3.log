@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  7 JAN 2015 20:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  7 JAN 2015 20:07
 entering extended mode
 **Exercise_3.tex
 
@@ -1334,11 +1334,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
 Here is how much of TeX's memory you used:
  9265 strings out of 493921
  145133 string characters out of 3144864
- 319152 words of memory out of 3000000
+ 299152 words of memory out of 3000000
  12232 multiletter control sequences out of 15000+200000
  8003 words of font info for 29 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,8n,50p,1416b,1110s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,8n,50p,1416b,1090s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb10.pfb><
 C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
@@ -1349,7 +1349,7 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Exercise_3.pdf (14 pages, 562403 bytes).
+Output written on Exercise_3.pdf (14 pages, 561900 bytes).
 PDF statistics:
  453 PDF objects out of 1000 (max. 8388607)
  118 named destinations out of 1000 (max. 500000)
