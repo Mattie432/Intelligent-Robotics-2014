@@ -15,6 +15,7 @@
 \usepackage{longtable}
 
 \usepackage[parfill]{parskip}
+\usepackage{supertabular,booktabs}
 
 
 
@@ -37,6 +38,7 @@
 	%adjust page width for sections
 
 	\newgeometry{left=1.5cm,right=1.5cm,bottom=2cm,top=1.5cm}
+\begin{multicols}{2}
 	\input{Abstract/Abstract}
 	\begin{center}
 	\hrulefill
@@ -62,4 +64,5 @@
 	\hrulefill
 	\end{center}
 	\input{References/References}
+\end{multicols}
 \end{document}

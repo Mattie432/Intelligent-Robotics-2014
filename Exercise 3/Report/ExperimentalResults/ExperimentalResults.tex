@@ -11,12 +11,12 @@
 \usepackage{float}
 
 \usepackage{wrapfig}
-\usepackage{longtable}
+\usepackage{supertabular}
+\usepackage{supertabular,booktabs}
 
 
 
 \begin{document}
-	\begin{multicols}{2}
     \section{Experimental Results}
 	In order measure performance and to best guide the design choices available, we conducted several experiments on the key components of the task. This section details and discusses the methods, results, and implications of the testing.
 
@@ -119,9 +119,8 @@ Our results (Figure 4.4) show that the ACML implementation outperforms our MCL i
 	\subsection{Human Detection Testing}
 	\subsubsection{Leg Detector Average}
 	To measure the best value for the leg detector average we let the robot roam along a set path using the navigation stack as the driver, recording the averages calculated from the number of legs detected/the number of readings taken. This provided an average value to increase the effectiveness of our leg detection. We measured and modified the amount of readings taken before calculating the average and the threshold value to cause the Robot to believe a person was present to find the most suitable parameters for the task.
-	\end{multicols}
 
-	\begin{longtable}{r | p{2cm} | p{2.5cm} | p{8cm} }
+	\begin{supertabular}{r | p{2cm} | p{2.5cm} | p{8cm} }
 	Test & Average number & Amount of Readings taken & Observed Result \\
 	\hline
 	  &  &  \\[2ex]
@@ -149,14 +148,18 @@ Our results (Figure 4.4) show that the ACML implementation outperforms our MCL i
 14 & 1.5 & 100000 & The higher number of readings meant the average was lower. It rarely reached over the threshold. \\ [1ex]
 15 & 1.5 & 150000 & The higher number of readings meant the average was lower. It rarely reached over the threshold. \\[1ex]
 	
-	\end{longtable}
-	\begin{multicols}{2}
+	\end{supertabular}
+	
+	
 	Based on the experimental data we chose to use 100,000 readings with an average of 1. This gave us the most accurate detection rate that someone was present whilst also performing in a reasonable amount of time. Using more readings, whilst producing a more accurate result, would not have yielded a timely enough result. The average of ‘1’ means that the robot has to have seen at least one person during the entirety of its scan. This dramatically reduced the false positive rate while exploring; whilst the leg detector might produce false positives at a given point it is unlikely to detect it over its entire scan.
+
+\columnbreak
+\vspace*{20.5cm}
 
 	\subsubsection{Leg Detector Parameters}
 	To determine the best parameters for the Leg Detection algorithm (largely to eliminate the large number of false positives which it originally suffered), we placed the robot in a fixed, stationary position, looking in to a corridor (the most controlled setting we could find). We then ran our tests, first seeing if the values detected any false positives. We then changed the values to try and reduce these false positives and then introduced a person into the scanners range to check that they were accurately detected.
-	\end{multicols}
-\begin{longtable}{r|r|r|r|r|r|p{8cm}}
+	
+\begin{supertabular}{r|r|r|r|r|r|p{8cm}}
 AMin & AMax & BMin & BMax & CMin & CMax & Observed Result\\
 \hline
  & & & & & & \\
@@ -182,8 +185,8 @@ AMin & AMax & BMin & BMax & CMin & CMax & Observed Result\\
  0.1 & 0.2 & 0 & 0.3 & 0.35 & 0.4 & Did not seem to affect the number of false positives.\\[1ex]
  
  0.1 & 0.2 & 0 & 0.3 & 1000 & 1000 & This is to stop it having an effect at all. These seems to make the robot a lot more reliable.\\
- \end{longtable}
- \begin{multicols}{2}
+ \end{supertabular}
+ 
 	The parameters we chose are highlighted in bold with qualitative justification presented in the observed result column. After our tests were complete we ran the robot through the full program to check that these results behaved as expected in the viva environment.
 	
 	\subsubsection{Leg Detector detection rate}
@@ -194,6 +197,11 @@ AMin & AMax & BMin & BMax & CMin & CMax & Observed Result\\
 	\caption{Leg detector detection rate of person}
 	\end{center}
 	\end{figure}
+
+
+\columnbreak
+\vspace*{12.5cm}	
+	
 	The leg detection yielded an accuracy rate of ~70 percent. We feel this rate is acceptable given the environment of the room and the way the leg detector algorithm works. Nevertheless, we decided that we needed human confirmation (a button press) that a human was genuinely in the room.
 	
 	\subsection{Obstacle Detection}
@@ -215,6 +223,4 @@ AMin & AMax & BMin & BMax & CMin & CMax & Observed Result\\
 	\end{center}
 	\end{figure}
 	The feedback from the full-run tests was reassuring; the tests completed successfully 80\% of the time. The reasons for the tests failing were one instance of an object entering the domain and the robot failing to stop in time as it was going too fast (subsequently fixed). The second time the robot got 'stuck' in a corner which, given enough time, we believe it may have eventually worked its self free.
-	\end{multicols}
-
 \end{document}
