@@ -14,7 +14,8 @@
 \usepackage{supertabular}
 \usepackage{supertabular,booktabs}
 
-
+\usepackage{booktabs}
+\newcommand{\bftab}{\fontseries{b}\selectfont}
 
 \begin{document}
     \section{Experimental Results}
@@ -135,7 +136,7 @@ Our results (Figure 4.4) show that the ACML implementation outperforms our MCL i
 
 	  &  &  \\[2ex]
 7 & 1 & 50000 & Detected the legs and low positives. Average consistently higher due to low number of readings taken \\ [1ex]
-8 & 1 & 100000 & Timely and  accurate assumption. \\ [2ex]
+\bftab 8 & \bftab 1 & \bftab 100000 & \bftab Timely and  accurate assumption. \\ [2ex]
 9 & 1 & 150000 & Low false positives but took too long between readings and would sometimes overshoot people while driving. \\ [1ex]
 
 	  &  &  \\[2ex]
@@ -149,7 +150,7 @@ Our results (Figure 4.4) show that the ACML implementation outperforms our MCL i
 15 & 1.5 & 150000 & The higher number of readings meant the average was lower. It rarely reached over the threshold. \\[1ex]
 	
 	\end{supertabular}
-	
+	\vspace{0.2cm}
 	
 	Based on the experimental data we chose to use 100,000 readings with an average of 1. This gave us the most accurate detection rate that someone was present whilst also performing in a reasonable amount of time. Using more readings, whilst producing a more accurate result, would not have yielded a timely enough result. The average of ‘1’ means that the robot has to have seen at least one person during the entirety of its scan. This dramatically reduced the false positive rate while exploring; whilst the leg detector might produce false positives at a given point it is unlikely to detect it over its entire scan.
 
@@ -171,21 +172,22 @@ AMin & AMax & BMin & BMax & CMin & CMax & Observed Result\\
  0.1 & 0.3 & 0 & 0.4 & 0.1 & 0.4 & This seemed to increase the number of false positives detected.\\
  0.05 & 0.2 & 0 & 0.4 & 0.1 & 0.4 & This increased the number of false positives detected.\\[1ex]
  0 & 0.2 & 0 & 0.4 & 0.1 & 0.4 & This dramatically increased the number of false positives detected\\
- 0.1 & 0.2 & 0 & 0.4 & 0.1 & 0.4 & These values seem to yield the best results.\\ [1ex]
+ \bftab 0.1 & \bftab 0.2 & 0 & 0.4 & 0.1 & 0.4 & These values seem to yield the best results.\\ [1ex]
  & & & & & & \\ 
  0.1 & 0.2 & 0.2 & 0.4 & 0.1 & 0.4 & This did not reduce the false positives at all.\\[1ex]
  0.1 & 0.2 & 0.1 & 0.4 & 0.1 & 0.4 & This did not reduce the false positives at all.\\[1ex]
  0.1 & 0.2 & 0 & 0.3 & 0.1 & 0.4 & Reduction in false positives, specifically the doorway posts.\\
  0.1 & 0.2 & 0 & 0.2 & 0.1 & 0.4 & No longer detected people as well, missed people standing in a 'normal' pose.\\
- 0.1 & 0.2 & 0 & 0.3 & 0.1 & 0.4 & These values seem to yield the best results.\\ [1ex]
+ 0.1 & 0.2 & \bftab 0 & \bftab 0.3 & 0.1 & 0.4 & These values seem to yield the best results.\\ [1ex]
  & & & & & & \\
  0.1 & 0.2 & 0 & 0.3 & 0.2 & 0.4 & Did not seem to affect the number of false positives.\\[1ex]
  0.1 & 0.2 & 0 & 0.3 & 0.3 & 0.4 & Did not seem to affect the number of false positives.\\[1ex]
  0.1 & 0.2 & 0 & 0.3 & 0.3 & 0.5 & Did not seem to affect the number of false positives.\\[1ex]
  0.1 & 0.2 & 0 & 0.3 & 0.35 & 0.4 & Did not seem to affect the number of false positives.\\[1ex]
  
- 0.1 & 0.2 & 0 & 0.3 & 1000 & 1000 & This is to stop it having an effect at all. These seems to make the robot a lot more reliable.\\
+ 0.1 & 0.2 & 0 & 0.3 & \bftab 1000 & \bftab 1000 & This is to stop it having an effect at all. These seems to make the robot a lot more reliable.\\
  \end{supertabular}
+ \vspace{0.2cm}
  
 	The parameters we chose are highlighted in bold with qualitative justification presented in the observed result column. After our tests were complete we ran the robot through the full program to check that these results behaved as expected in the viva environment.
 	

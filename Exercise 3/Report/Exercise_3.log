@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  7 JAN 2015 17:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  7 JAN 2015 20:00
 entering extended mode
 **Exercise_3.tex
 
@@ -466,37 +466,61 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@thisruleclass=\count127
 \@lastruleclass=\count128
 \@thisrulewidth=\dimen166
+) (D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.st
+y
+\lst@mode=\count129
+\lst@gtempboxa=\box67
+\lst@token=\toks24
+\lst@length=\count130
+\lst@currlwidth=\dimen167
+\lst@column=\count131
+\lst@pos=\count132
+\lst@lostspace=\dimen168
+\lst@width=\dimen169
+\lst@newlines=\count133
+\lst@lineno=\count134
+\lst@maxwidth=\dimen170
+(D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count135
+\lst@skipnumbers=\count136
+\lst@framebox=\box68
 )
+(D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Exercise_3.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 (D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count129
-\scratchdimen=\dimen167
-\scratchbox=\box67
-\nofMPsegments=\count130
-\nofMParguments=\count131
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count132
-\MPscratchDim=\dimen168
-\MPnumerator=\count133
-\makeMPintoPDFobject=\count134
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count137
+\scratchdimen=\dimen171
+\scratchbox=\box69
+\nofMPsegments=\count138
+\nofMParguments=\count139
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count140
+\MPscratchDim=\dimen172
+\MPnumerator=\count141
+\makeMPintoPDFobject=\count142
+\everyMPtoPDFconversion=\toks26
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -532,37 +556,38 @@ LaTeX Font Info:    ... okay on input line 25.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box68
-Package hyperref Info: Link coloring OFF on input line 25.
+\AtBeginShipoutBox=\box70
+Package hyperref Info: Link coloring OFF on input line 28.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count135
+\c@section@level=\count143
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
-LaTeX Info: Redefining \nameref on input line 25.
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
 
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Exercise_3.out")
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Exercise_3.out")
 \@outlinefile=\write3
-LaTeX Info: Redefining \celsius on input line 25.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 25.
+LaTeX Info: Redefining \celsius on input line 28.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 28.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 25.
-Package gensymb Info: Using \Omega for \ohm on input line 25.
+LaTeX Info: Redefining \ohm on input line 28.
+Package gensymb Info: Using \Omega for \ohm on input line 28.
 
 Package gensymb Warning: Not defining \micro.
 
+\c@lstlisting=\count144
 
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\TitlePage/TitlePage.tex"
@@ -916,114 +941,114 @@ Missing character: There is no ™ in font cmr10!
 )
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\ExperimentalResults/ExperimentalResults.tex"
-<ExperimentalResults/ExperimentalResults1.png, id=273, 573.14125pt x 345.29pt>
+<ExperimentalResults/ExperimentalResults1.png, id=275, 573.14125pt x 345.29pt>
 File: ExperimentalResults/ExperimentalResults1.png Graphic file (type png)
 
 <use ExperimentalResults/ExperimentalResults1.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults1.png used on i
-nput line 32.
+nput line 33.
 (pdftex.def)             Requested size: 225.96579pt x 136.1325pt.
 
-<ExperimentalResults/ExperimentalResults2.png, id=275, 574.145pt x 342.27875pt>
+<ExperimentalResults/ExperimentalResults2.png, id=277, 574.145pt x 342.27875pt>
 File: ExperimentalResults/ExperimentalResults2.png Graphic file (type png)
 <use ExperimentalResults/ExperimentalResults2.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults2.png used on i
-nput line 38.
+nput line 39.
 (pdftex.def)             Requested size: 225.96579pt x 134.71028pt.
 
-<ExperimentalResults/ExperimentalResults3.png, id=276, 575.14874pt x 341.275pt>
+<ExperimentalResults/ExperimentalResults3.png, id=278, 575.14874pt x 341.275pt>
 File: ExperimentalResults/ExperimentalResults3.png Graphic file (type png)
 <use ExperimentalResults/ExperimentalResults3.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults3.png used on i
-nput line 44.
+nput line 45.
 (pdftex.def)             Requested size: 225.96579pt x 134.0809pt.
  [8pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.51 
+l.52 
      pdfTeX warning (ext4): destination with the same identifier (name{figure.3
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.51 
+l.52 
      pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.51 
+l.52 
       <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
 Exercise 3/Report/ExperimentalResults/ExperimentalResults1.png> <D:/Users/Matti
 e432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Exp
 erimentalResults/ExperimentalResults2.png> <D:/Users/Mattie432/Dropbox/Programm
 ing/Python/Intelligent-Robotics-2014/Exercise 3/Report/ExperimentalResults/Expe
 rimentalResults3.png>]
-<ExperimentalResults/ExperimentalResults4.png, id=287, 565.11125pt x 334.24875p
+<ExperimentalResults/ExperimentalResults4.png, id=289, 565.11125pt x 334.24875p
 t>
 File: ExperimentalResults/ExperimentalResults4.png Graphic file (type png)
  <use ExperimentalResults/ExperimentalResults4.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults4.png used on i
-nput line 56.
+nput line 57.
 (pdftex.def)             Requested size: 225.96579pt x 133.65121pt.
 
-<ExperimentalResults/ExperimentalResults5.png, id=288, 559.08875pt x 338.26375p
+<ExperimentalResults/ExperimentalResults5.png, id=290, 559.08875pt x 338.26375p
 t>
 File: ExperimentalResults/ExperimentalResults5.png Graphic file (type png)
  <use ExperimentalResults/ExperimentalResults5.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults5.png used on i
-nput line 62.
+nput line 63.
 (pdftex.def)             Requested size: 225.96579pt x 136.71733pt.
 
-<ExperimentalResults/ExperimentalResults6.png, id=289, 558.085pt x 339.2675pt>
+<ExperimentalResults/ExperimentalResults6.png, id=291, 558.085pt x 339.2675pt>
 File: ExperimentalResults/ExperimentalResults6.png Graphic file (type png)
 
 <use ExperimentalResults/ExperimentalResults6.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults6.png used on i
-nput line 68.
+nput line 69.
 (pdftex.def)             Requested size: 225.96579pt x 137.36633pt.
 
-<ExperimentalResults/ExperimentalResults7.png, id=290, 541.02126pt x 372.39125p
+<ExperimentalResults/ExperimentalResults7.png, id=292, 541.02126pt x 372.39125p
 t>
 File: ExperimentalResults/ExperimentalResults7.png Graphic file (type png)
  <use ExperimentalResults/ExperimentalResults7.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults7.png used on i
-nput line 77.
+nput line 78.
 (pdftex.def)             Requested size: 225.96579pt x 155.53387pt.
 
-<ExperimentalResults/ExperimentalResults8.png, id=291, 521.95pt x 372.39125pt>
+<ExperimentalResults/ExperimentalResults8.png, id=293, 521.95pt x 372.39125pt>
 File: ExperimentalResults/ExperimentalResults8.png Graphic file (type png)
 
 <use ExperimentalResults/ExperimentalResults8.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults8.png used on i
-nput line 88.
+nput line 89.
 (pdftex.def)             Requested size: 225.96579pt x 161.2161pt.
  [9pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.92 
+l.93 
      pdfTeX warning (ext4): destination with the same identifier (name{figure.6
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.92 
+l.93 
      pdfTeX warning (ext4): destination with the same identifier (name{figure.7
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.92 
+l.93 
      pdfTeX warning (ext4): destination with the same identifier (name{figure.8
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.92 
+l.93 
       <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
 Exercise 3/Report/ExperimentalResults/ExperimentalResults4.png> <D:/Users/Matti
 e432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Exp
@@ -1032,59 +1057,59 @@ ing/Python/Intelligent-Robotics-2014/Exercise 3/Report/ExperimentalResults/Expe
 rimentalResults6.png> <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligen
 t-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults7.png>
 ]
-<ExperimentalResults/ExperimentalResults9.png, id=304, 601.24625pt x 608.2725pt
+<ExperimentalResults/ExperimentalResults9.png, id=306, 601.24625pt x 608.2725pt
 >
 File: ExperimentalResults/ExperimentalResults9.png Graphic file (type png)
  <use ExperimentalResults/ExperimentalResults9.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults9.png used on i
-nput line 104.
+nput line 105.
 (pdftex.def)             Requested size: 200.86061pt x 203.2087pt.
 
-<ExperimentalResults/ExperimentalResults10.png, id=305, 601.24625pt x 608.2725p
+<ExperimentalResults/ExperimentalResults10.png, id=307, 601.24625pt x 608.2725p
 t>
 File: ExperimentalResults/ExperimentalResults10.png Graphic file (type png)
  <use ExperimentalResults/ExperimentalResults10.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults10.png used on 
-input line 114.
+input line 115.
 (pdftex.def)             Requested size: 200.86061pt x 203.2087pt.
  [10pdfTeX warning (ext4): destination with the same identifier (name{figure.9}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.123 ...tabular}{r | p{2cm} | p{2.5cm} | p{8cm} }
+l.124 ...tabular}{r | p{2cm} | p{2.5cm} | p{8cm} }
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{figure.10}) has been already used, duplica
 te ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.123 ...tabular}{r | p{2cm} | p{2.5cm} | p{8cm} }
+l.124 ...tabular}{r | p{2cm} | p{2.5cm} | p{8cm} }
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{figure.11}) has been already used, duplica
 te ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.123 ...tabular}{r | p{2cm} | p{2.5cm} | p{8cm} }
+l.124 ...tabular}{r | p{2cm} | p{2.5cm} | p{8cm} }
                                                    <D:/Users/Mattie432/Dropbox/
 Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/ExperimentalResu
 lts/ExperimentalResults8.png> <D:/Users/Mattie432/Dropbox/Programming/Python/In
 telligent-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResul
 ts9.png> <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-20
 14/Exercise 3/Report/ExperimentalResults/ExperimentalResults10.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []\OT1/cmr/m/n/10 Average
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []\OT1/cmr/m/n/10 Amount of
  []
 
 
-Overfull \hbox (201.2513pt too wide) in paragraph at lines 123--152
-[] 
+Overfull \hbox (171.2513pt too wide) in paragraph at lines 124--154
+[]
  []
 
 Missing character: There is no â in font cmr10!
@@ -1094,25 +1119,25 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 [11]
-Overfull \hbox (244.99217pt too wide) in paragraph at lines 162--189
-[] 
+Overfull \hbox (214.99217pt too wide) in paragraph at lines 163--191
+[]
  []
 
 
-<ExperimentalResults/ExperimentalResults11.png, id=318, 348.30125pt x 270.00874
+<ExperimentalResults/ExperimentalResults11.png, id=321, 348.30125pt x 270.00874
 pt>
 File: ExperimentalResults/ExperimentalResults11.png Graphic file (type png)
  <use ExperimentalResults/ExperimentalResults11.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults11.png used on 
-input line 196.
+input line 198.
 (pdftex.def)             Requested size: 200.86061pt x 155.71114pt.
 
-<ExperimentalResults/ExperimentalResults12.png, id=319, 557.08125pt x 326.21875
+<ExperimentalResults/ExperimentalResults12.png, id=322, 557.08125pt x 326.21875
 pt>
 File: ExperimentalResults/ExperimentalResults12.png Graphic file (type png)
  <use ExperimentalResults/ExperimentalResults12.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults12.png used on 
-input line 211.
+input line 213.
 (pdftex.def)             Requested size: 200.86061pt x 117.61784pt.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -1121,25 +1146,25 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-<ExperimentalResults/ExperimentalResults13.png, id=320, 316.18124pt x 275.0275p
+<ExperimentalResults/ExperimentalResults13.png, id=323, 316.18124pt x 275.0275p
 t>
 File: ExperimentalResults/ExperimentalResults13.png Graphic file (type png)
  <use ExperimentalResults/ExperimentalResults13.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults13.png used on 
-input line 221.
+input line 223.
 (pdftex.def)             Requested size: 200.86061pt x 174.72025pt.
  [12pdfTeX warning (ext4): destination with the same identifier (name{figure.12
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.224 	\end{figure}
+l.226 	\end{figure}
                    pdfTeX warning (ext4): destination with the same identifier 
 (name{figure.13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.224 	\end{figure}
+l.226 	\end{figure}
                     <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-
 Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults11.png> 
 <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exerci
@@ -1295,36 +1320,38 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 ) [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
 
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Exercise_3.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 68.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
 Package rerunfilecheck Info: File `Exercise_3.out' has not changed.
 (rerunfilecheck)             Checksum: A632A88DD96695D34340513515610EEB;2952.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 68.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  ) 
 Here is how much of TeX's memory you used:
- 8040 strings out of 493921
- 127211 string characters out of 3144864
- 242193 words of memory out of 3000000
- 11021 multiletter control sequences out of 15000+200000
- 7693 words of font info for 28 fonts, out of 3000000 for 9000
+ 9265 strings out of 493921
+ 145133 string characters out of 3144864
+ 319152 words of memory out of 3000000
+ 12232 multiletter control sequences out of 15000+200000
+ 8003 words of font info for 29 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,8n,37p,1416b,603s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Exercise_3.pdf (14 pages, 541577 bytes).
+ 51i,8n,50p,1416b,1110s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb10.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Exercise_3.pdf (14 pages, 562027 bytes).
 PDF statistics:
- 444 PDF objects out of 1000 (max. 8388607)
- 117 named destinations out of 1000 (max. 500000)
+ 453 PDF objects out of 1000 (max. 8388607)
+ 118 named destinations out of 1000 (max. 500000)
  412 words of extra memory for PDF output out of 10000 (max. 10000000)
 

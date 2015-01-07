@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2014.4.22)  7 JAN 2015 17:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  7 JAN 2015 19:58
 entering extended mode
 **ExperimentalResults.tex
 
@@ -65,13 +65,18 @@ Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: dvips.def on input line 130.
+Package color Info: Driver file: pdftex.def on input line 130.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvips.def"
-File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
-File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
@@ -83,15 +88,15 @@ Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -104,7 +109,7 @@ Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
 )
@@ -135,13 +140,13 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen107
-\Hy@linkcounter=\count89
-\Hy@pagecounter=\count90
+\Hy@linkcounter=\count90
+\Hy@pagecounter=\count91
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count91
+\Hy@SavedSpaceFactor=\count92
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -153,7 +158,7 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count92
+\c@Hy@tempcnt=\count93
 
 (D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip10
@@ -161,7 +166,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen108
-\Fld@menulength=\count93
+\Fld@menulength=\count94
 \Field@Width=\dimen109
 \Fld@charsize=\dimen110
 Package hyperref Info: Hyper figures OFF on input line 6295.
@@ -173,23 +178,15 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count94
-\c@Item=\count95
-\c@Hfootnote=\count96
+\Hy@abspage=\count95
+\c@Item=\count96
+\c@Hfootnote=\count97
 )
 
-Package hyperref Message: Driver (default): hdvips.
+Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hdvips.def"
-File: hdvips.def 2012/11/06 v6.83m Hyperref driver for dvips
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pdfmark.def"
-File: pdfmark.def 2012/11/06 v6.83m Hyperref definitions for pdfmark specials
-\pdf@docset=\toks18
-\pdf@box=\box30
-\pdf@toks=\toks19
-\pdf@defaulttoks=\toks20
-\HyField@AnnotCount=\count97
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count98
 \c@bookmark@seq@number=\count99
 
@@ -199,7 +196,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip45
-))
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -212,7 +209,7 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: dvips.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 )
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
@@ -230,13 +227,13 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutheight=\dimen118
 \Gm@layouthoffset=\dimen119
 \Gm@layoutvoffset=\dimen120
-\Gm@dimlist=\toks21
+\Gm@dimlist=\toks18
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \c@tracingmulticols=\count103
-\mult@box=\box31
+\mult@box=\box30
 \multicol@leftmargin=\dimen121
 \c@unbalance=\count104
 \c@collectmore=\count105
@@ -249,12 +246,13 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \postmulticols=\dimen125
 \multicolsep=\skip46
 \multicolbaselineskip=\skip47
-\partial@page=\box32
-\last@line=\box33
-\mult@rightbox=\box34
-\mult@grightbox=\box35
-\mult@gfirstbox=\box36
-\mult@firstbox=\box37
+\partial@page=\box31
+\last@line=\box32
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
+\@tempa=\box37
 \@tempa=\box38
 \@tempa=\box39
 \@tempa=\box40
@@ -271,30 +269,29 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \@tempa=\box51
 \@tempa=\box52
 \@tempa=\box53
-\@tempa=\box54
 \c@columnbadness=\count109
 \c@finalcolumnbadness=\count110
 \last@try=\dimen126
 \multicolovershoot=\dimen127
 \multicolundershoot=\dimen128
-\mult@nat@firstbox=\box55
-\colbreak@box=\box56
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
 \multicol@sort@counter=\count111
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count112
-\float@exts=\toks22
-\float@box=\box57
-\@float@everytoks=\toks23
-\@floatcapt=\box58
+\float@exts=\toks19
+\float@box=\box56
+\@float@everytoks=\toks20
+\@floatcapt=\box57
 )
 (D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
 \wrapoverhang=\dimen129
 \WF@size=\dimen130
 \c@WF@wrappedlines=\count113
-\WF@box=\box59
-\WF@everypar=\toks24
+\WF@box=\box58
+\WF@everypar=\toks21
 Package: wrapfig 2003/01/31  v 3.6
 )
 (D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\supertabular\supertabu
@@ -315,7 +312,7 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \ST@prevht=\dimen139
 \ST@toadd=\dimen140
 \ST@dimen=\dimen141
-\ST@pbox=\box60
+\ST@pbox=\box59
 )
 (D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
@@ -339,45 +336,59 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 )
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\ExperimentalResults\ExperimentalResults.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Info: Redefining \celsius on input line 19.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Info: Redefining \celsius on input line 20.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 20.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 19.
-Package gensymb Info: Using \Omega for \ohm on input line 19.
+LaTeX Info: Redefining \ohm on input line 20.
+Package gensymb Info: Using \Omega for \ohm on input line 20.
 
 Package gensymb Warning: Not defining \micro.
 
+(D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen155
+\scratchbox=\box60
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen156
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks23
+)
 \AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 19.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package hyperref Info: Link coloring OFF on input line 20.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count119
+\c@section@level=\count125
 )
-LaTeX Info: Redefining \ref on input line 19.
-LaTeX Info: Redefining \pageref on input line 19.
-LaTeX Info: Redefining \nameref on input line 19.
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
 
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\ExperimentalResults\ExperimentalResults.out")
@@ -385,13 +396,10 @@ ise 3\Report\ExperimentalResults\ExperimentalResults.out")
 ise 3\Report\ExperimentalResults\ExperimentalResults.out")
 \@outlinefile=\write3
 
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 *geometry* driver: auto-detecting
-*geometry* detected driver: dvips
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: dvips
+* driver: pdftex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -422,165 +430,169 @@ Package hyperref Warning: Rerun to get /PageLabels entry.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<ExperimentalResults1.png, id=63, 573.14125pt x 345.29pt>
+File: ExperimentalResults1.png Graphic file (type png)
 
-! LaTeX Error: File `ExperimentalResults1' not found.
+<use ExperimentalResults1.png>
+Package pdftex.def Info: ExperimentalResults1.png used on input line 33.
+(pdftex.def)             Requested size: 399.21791pt x 240.5106pt.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32 ...width=0.9\linewidth]{ExperimentalResults1}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<ExperimentalResults2.png, id=65, 574.145pt x 342.27875pt>
+File: ExperimentalResults2.png Graphic file (type png)
 
+<use ExperimentalResults2.png>
+Package pdftex.def Info: ExperimentalResults2.png used on input line 39.
+(pdftex.def)             Requested size: 399.21791pt x 238.00053pt.
 
-! LaTeX Error: File `ExperimentalResults2' not found.
+<ExperimentalResults3.png, id=66, 575.14874pt x 341.275pt>
+File: ExperimentalResults3.png Graphic file (type png)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 ...width=0.9\linewidth]{ExperimentalResults2}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<use ExperimentalResults3.png>
+Package pdftex.def Info: ExperimentalResults3.png used on input line 45.
+(pdftex.def)             Requested size: 399.21791pt x 236.8912pt.
+ [1
 
+{D:/Users/Mattie432/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}pdfTeX wa
+rning (ext4): destination with the same identifier (name{figure.1}) has been al
+ready used, duplicate ignored
 
-! LaTeX Error: File `ExperimentalResults3' not found.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.48 	\end{figure}
+                   <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-R
+obotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults1.png>]
+[2pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+has been already used, duplicate ignored
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44 ...width=0.9\linewidth]{ExperimentalResults3}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.54 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+}) has been already used, duplicate ignored
 
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.54 
+      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
+Exercise 3/Report/ExperimentalResults/ExperimentalResults2.png> <D:/Users/Matti
+e432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Exp
+erimentalResults/ExperimentalResults3.png>]
+<ExperimentalResults4.png, id=85, 565.11125pt x 334.24875pt>
+File: ExperimentalResults4.png Graphic file (type png)
 
-! LaTeX Error: File `ExperimentalResults4' not found.
+<use ExperimentalResults4.png>
+Package pdftex.def Info: ExperimentalResults4.png used on input line 57.
+(pdftex.def)             Requested size: 399.21791pt x 236.12991pt.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.56 ...width=0.9\linewidth]{ExperimentalResults4}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<ExperimentalResults5.png, id=86, 559.08875pt x 338.26375pt>
+File: ExperimentalResults5.png Graphic file (type png)
 
+<use ExperimentalResults5.png>
+Package pdftex.def Info: ExperimentalResults5.png used on input line 63.
+(pdftex.def)             Requested size: 399.21791pt x 241.54704pt.
 
-! LaTeX Error: File `ExperimentalResults5' not found.
+<ExperimentalResults6.png, id=87, 558.085pt x 339.2675pt>
+File: ExperimentalResults6.png Graphic file (type png)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.62 ...width=0.9\linewidth]{ExperimentalResults5}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<use ExperimentalResults6.png>
+Package pdftex.def Info: ExperimentalResults6.png used on input line 69.
+(pdftex.def)             Requested size: 399.21791pt x 242.69865pt.
+ [3pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
 
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.73 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+}) has been already used, duplicate ignored
 
-! LaTeX Error: File `ExperimentalResults6' not found.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.73 
+      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
+Exercise 3/Report/ExperimentalResults/ExperimentalResults4.png> <D:/Users/Matti
+e432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Exp
+erimentalResults/ExperimentalResults5.png>]
+<ExperimentalResults7.png, id=96, 541.02126pt x 372.39125pt>
+File: ExperimentalResults7.png Graphic file (type png)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.68 ...width=0.9\linewidth]{ExperimentalResults6}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<use ExperimentalResults7.png>
+Package pdftex.def Info: ExperimentalResults7.png used on input line 78.
+(pdftex.def)             Requested size: 399.21791pt x 274.79242pt.
+ [4pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
+ has been already used, duplicate ignored
 
-[1
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.85 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.7
+}) has been already used, duplicate ignored
 
-]
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.85 
+      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
+Exercise 3/Report/ExperimentalResults/ExperimentalResults6.png> <D:/Users/Matti
+e432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Exp
+erimentalResults/ExperimentalResults7.png>]
+<ExperimentalResults8.png, id=105, 521.95pt x 372.39125pt>
+File: ExperimentalResults8.png Graphic file (type png)
 
-! LaTeX Error: File `ExperimentalResults7' not found.
+<use ExperimentalResults8.png>
+Package pdftex.def Info: ExperimentalResults8.png used on input line 89.
+(pdftex.def)             Requested size: 399.21791pt x 284.82722pt.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.77 ...width=0.9\linewidth]{ExperimentalResults7}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<ExperimentalResults9.png, id=106, 601.24625pt x 608.2725pt>
+File: ExperimentalResults9.png Graphic file (type png)
 
+<use ExperimentalResults9.png>
+Package pdftex.def Info: ExperimentalResults9.png used on input line 105.
+(pdftex.def)             Requested size: 354.86412pt x 359.02617pt.
+ [5pdfTeX warning (ext4): destination with the same identifier (name{figure.8})
+ has been already used, duplicate ignored
 
-! LaTeX Error: File `ExperimentalResults8' not found.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.109 
+       <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014
+/Exercise 3/Report/ExperimentalResults/ExperimentalResults8.png>]
+<ExperimentalResults10.png, id=113, 601.24625pt x 608.2725pt>
+File: ExperimentalResults10.png Graphic file (type png)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...width=0.9\linewidth]{ExperimentalResults8}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<use ExperimentalResults10.png>
+Package pdftex.def Info: ExperimentalResults10.png used on input line 115.
+(pdftex.def)             Requested size: 354.86412pt x 359.02617pt.
+ [6pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
+ has been already used, duplicate ignored
 
-
-! LaTeX Error: File `ExperimentalResults9' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.104 ...idth=0.8\linewidth]{ExperimentalResults9}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[2]
-
-! LaTeX Error: File `ExperimentalResults10' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.114 ...dth=0.8\linewidth]{ExperimentalResults10}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.119 
+       <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014
+/Exercise 3/Report/ExperimentalResults/ExperimentalResults9.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 123.
+(Font)              <7> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 123.
+(Font)              <5> on input line 124.
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []\OT1/cmr/m/n/10 Average
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []\OT1/cmr/m/n/10 Amount of
  []
 
-[3]
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.10})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.130 .... Average appears to be too low. \\ [0ex]
+                                                   <D:/Users/Mattie432/Dropbox/
+Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/ExperimentalResu
+lts/ExperimentalResults10.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
@@ -595,29 +607,22 @@ See the multicol package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.156 \columnbreak
+l.157 \columnbreak
                   
 This command can only be used within a multicols or multicols* environment.
 
-[4] [5]
-Overfull \hbox (22.48851pt too wide) in paragraph at lines 162--189
-[] 
+[8] [9]
+Overfull \hbox (22.48851pt too wide) in paragraph at lines 163--191
+[]
  []
 
+<ExperimentalResults11.png, id=134, 348.30125pt x 270.00874pt>
+File: ExperimentalResults11.png Graphic file (type png)
 
-! LaTeX Error: File `ExperimentalResults11' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.196 ...dth=0.8\linewidth]{ExperimentalResults11}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<use ExperimentalResults11.png>
+Package pdftex.def Info: ExperimentalResults11.png used on input line 198.
+(pdftex.def)             Requested size: 354.86412pt x 275.10861pt.
+ [10]
 
 ! Package multicol Error: \columnbreak outside multicols.
 
@@ -625,25 +630,25 @@ See the multicol package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.202 \columnbreak
+l.204 \columnbreak
                   
 This command can only be used within a multicols or multicols* environment.
 
-[6]
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
+) has been already used, duplicate ignored
 
-! LaTeX Error: File `ExperimentalResults12' not found.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.208 
+       <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014
+/Exercise 3/Report/ExperimentalResults/ExperimentalResults11.png>]
+<ExperimentalResults12.png, id=145, 557.08125pt x 326.21875pt>
+File: ExperimentalResults12.png Graphic file (type png)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.211 ...dth=0.8\linewidth]{ExperimentalResults12}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<use ExperimentalResults12.png>
+Package pdftex.def Info: ExperimentalResults12.png used on input line 213.
+(pdftex.def)             Requested size: 354.86412pt x 207.80862pt.
+ [12]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
@@ -651,38 +656,56 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-! LaTeX Error: File `ExperimentalResults13' not found.
+<ExperimentalResults13.png, id=150, 316.18124pt x 275.0275pt>
+File: ExperimentalResults13.png Graphic file (type png)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.221 ...dth=0.8\linewidth]{ExperimentalResults13}
-                                                  
-I could not locate the file with any of these extensions:
-.eps,.ps,.eps.gz,.ps.gz,.eps.Z
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<use ExperimentalResults13.png>
+Package pdftex.def Info: ExperimentalResults13.png used on input line 223.
+(pdftex.def)             Requested size: 354.86412pt x 308.69595pt.
+ [13pdfTeX warning (ext4): destination with the same identifier (name{figure.12
+}) has been already used, duplicate ignored
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
-[7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 226.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.227 	T
+        he feedback from the full-run tests was reassuring; the tests comple...
+ <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exerc
+ise 3/Report/ExperimentalResults/ExperimentalResults12.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
+ [14pdfTeX warning (ext4): destination with the same identifier (name{figure.13
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.228 \end{document}
+                     <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent
+-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults13.png>
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
 
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\ExperimentalResults\ExperimentalResults.aux")
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 226.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 226.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
 Package rerunfilecheck Info: File `ExperimentalResults.out' has not changed.
 (rerunfilecheck)             Checksum: C4445EFF937715806DC254DAD942A627;1115.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 226.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 228.
  ) 
 Here is how much of TeX's memory you used:
- 6010 strings out of 493922
- 91433 string characters out of 3144887
- 188977 words of memory out of 3000000
- 9225 multiletter control sequences out of 15000+200000
- 5264 words of font info for 20 fonts, out of 3000000 for 9000
+ 6319 strings out of 493921
+ 95833 string characters out of 3144864
+ 193414 words of memory out of 3000000
+ 9512 multiletter control sequences out of 15000+200000
+ 5574 words of font info for 21 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,8n,28p,698b,366s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb10.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on ExperimentalResults.pdf (14 pages, 358396 bytes).
+PDF statistics:
+ 191 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on ExperimentalResults.dvi (7 pages, 34512 bytes).
