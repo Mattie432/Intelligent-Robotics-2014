@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  5 JAN 2015 17:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  7 JAN 2015 15:23
 entering extended mode
 **Abstract.tex
 
@@ -164,34 +164,81 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 .sty
 Package: filemod-expmin 2011/09/19 v1.2 Get and compare file modification times
  (expandable; minimal)
-))
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count92
+\mult@box=\box29
+\multicol@leftmargin=\dimen115
+\c@unbalance=\count93
+\c@collectmore=\count94
+\doublecol@number=\count95
+\multicoltolerance=\count96
+\multicolpretolerance=\count97
+\full@width=\dimen116
+\page@free=\dimen117
+\premulticols=\dimen118
+\postmulticols=\dimen119
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box30
+\last@line=\box31
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count98
+\c@finalcolumnbadness=\count99
+\last@try=\dimen120
+\multicolovershoot=\dimen121
+\multicolundershoot=\dimen122
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+\multicol@sort@counter=\count100
+)
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Abstract\Abstract.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 
 (D:\Users\Mattie432\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count92
-\scratchdimen=\dimen115
-\scratchbox=\box29
-\nofMPsegments=\count93
-\nofMParguments=\count94
+\scratchcounter=\count101
+\scratchdimen=\dimen123
+\scratchbox=\box55
+\nofMPsegments=\count102
+\nofMParguments=\count103
 \everyMPshowfont=\toks17
-\MPscratchCnt=\count95
-\MPscratchDim=\dimen116
-\MPnumerator=\count96
-\makeMPintoPDFobject=\count97
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen124
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
 \everyMPtoPDFconversion=\toks18
 )
 Missing character: There is no ‚ in font cmr10!
@@ -206,17 +253,17 @@ Missing character: There is no ù in font cmr10!
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Abstract\Abstract.aux") ) 
 Here is how much of TeX's memory you used:
- 2450 strings out of 493921
- 38906 string characters out of 3144864
- 91599 words of memory out of 3000000
- 5722 multiletter control sequences out of 15000+200000
+ 2543 strings out of 493921
+ 40344 string characters out of 3144864
+ 99343 words of memory out of 3000000
+ 5811 multiletter control sequences out of 15000+200000
  4245 words of font info for 16 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,4n,31p,962b,109s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,4n,31p,962b,163s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmr10.pfb>
-Output written on Abstract.pdf (1 page, 32668 bytes).
+Output written on Abstract.pdf (1 page, 32742 bytes).
 PDF statistics:
  14 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

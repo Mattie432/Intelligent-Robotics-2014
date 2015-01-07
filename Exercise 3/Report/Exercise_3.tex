@@ -28,7 +28,6 @@
 	%Insert the abstract
     \pagenumbering{arabic}
     \setcounter{page}{2}
-	\input{Abstract/Abstract}
 	
 	%table of contents
 	\newgeometry{bottom=2cm}
@@ -36,7 +35,12 @@
 	\newpage
 
 	%adjust page width for sections
-		\newgeometry{left=1.5cm,right=1.5cm,bottom=2cm,top=2cm}
+
+	\newgeometry{left=1.5cm,right=1.5cm,bottom=2cm,top=1.5cm}
+	\input{Abstract/Abstract}
+	\begin{center}
+	\hrulefill
+	\end{center}
 	\input{Introduction/Introduction}
 	\begin{center}
 	\hrulefill

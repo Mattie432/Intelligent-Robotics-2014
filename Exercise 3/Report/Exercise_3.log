@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  7 JAN 2015 00:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  7 JAN 2015 15:48
 entering extended mode
 **Exercise_3.tex
 
@@ -537,15 +537,6 @@ Package pdftex.def Info: TitlePage/university.jpg used on input line 19.
 {D:/Users/Mattie432/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/User
 s/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Rep
 ort/TitlePage/university.jpg>])
-("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
-ise 3\Report\Abstract/Abstract.tex"
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
- [2])
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -587,7 +578,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
 )
 \tf@toc=\write4
- [3
+ [2
 
 ]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -597,14 +588,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 745.46222pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=512.14963pt
-* \textheight=731.23584pt
+* \textheight=745.46222pt
 * \oddsidemargin=-29.59087pt
 * \evensidemargin=-29.59087pt
-* \topmargin=-52.36449pt
+* \topmargin=-66.59087pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -623,6 +614,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
+("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
+ise 3\Report\Abstract/Abstract.tex"
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+)
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Introduction/Introduction.tex"
 Missing character: There is no ‚ in font cmr10!
@@ -665,7 +665,7 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-<LiteratureReview/LiteratureReview2.png, id=232, 1058.45438pt x 435.12563pt>
+<LiteratureReview/LiteratureReview2.png, id=228, 1058.45438pt x 435.12563pt>
 File: LiteratureReview/LiteratureReview2.png Graphic file (type png)
 
 <use LiteratureReview/LiteratureReview2.png>
@@ -687,12 +687,12 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+[3
+
+]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-[4
-
-]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -718,6 +718,7 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+ [4]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -733,13 +734,46 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 5 might be wrong on input line 69.
+(multicol)                Footnotes on page 5 might be wrong on input line 87.
 
 [5]
 Missing character: There is no ‚ in font cmr10!
@@ -751,45 +785,6 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 6 might be wrong on input line 91.
-
-[6]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -808,6 +803,7 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
+ [6]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -820,7 +816,6 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [7]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -863,7 +858,7 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [8]
+ [7]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -876,173 +871,170 @@ Missing character: There is no ô in font cmr10!
 )
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\ExperimentalResults/ExperimentalResults.tex"
-<ExperimentalResults/ExperimentalResults1.png, id=277, 641.39626pt x 407.5225pt
->
+<ExperimentalResults/ExperimentalResults1.png, id=273, 573.14125pt x 345.29pt>
 File: ExperimentalResults/ExperimentalResults1.png Graphic file (type png)
- <use ExperimentalResults/ExperimentalResults1.png>
+
+<use ExperimentalResults/ExperimentalResults1.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults1.png used on i
 nput line 32.
-(pdftex.def)             Requested size: 251.07481pt x 159.52386pt.
+(pdftex.def)             Requested size: 225.96579pt x 136.1325pt.
 
-<ExperimentalResults/ExperimentalResults2.png, id=279, 637.38126pt x 400.49625p
-t>
+<ExperimentalResults/ExperimentalResults2.png, id=275, 574.145pt x 342.27875pt>
 File: ExperimentalResults/ExperimentalResults2.png Graphic file (type png)
- <use ExperimentalResults/ExperimentalResults2.png>
+<use ExperimentalResults/ExperimentalResults2.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults2.png used on i
-nput line 37.
-(pdftex.def)             Requested size: 251.07481pt x 157.75734pt.
+nput line 38.
+(pdftex.def)             Requested size: 225.96579pt x 134.71028pt.
 
-<ExperimentalResults/ExperimentalResults3.png, id=280, 643.40375pt x 377.41pt>
+<ExperimentalResults/ExperimentalResults3.png, id=276, 575.14874pt x 341.275pt>
 File: ExperimentalResults/ExperimentalResults3.png Graphic file (type png)
-
 <use ExperimentalResults/ExperimentalResults3.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults3.png used on i
-nput line 42.
-(pdftex.def)             Requested size: 251.07481pt x 147.27568pt.
- [9pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
+nput line 44.
+(pdftex.def)             Requested size: 225.96579pt x 134.0809pt.
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.46 	\newpage
-              pdfTeX warning (ext4): destination with the same identifier (name
-{figure.3}) has been already used, duplicate ignored
+l.51 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.46 	\newpage
-               <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robot
-ics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults1.png> <D:/Us
-ers/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/R
-eport/ExperimentalResults/ExperimentalResults2.png>] [10pdfTeX warning (ext4): 
-destination with the same identifier (name{figure.4}) has been already used, du
-plicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.46 	\newpage
-               <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robot
-ics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults3.png>]
-<ExperimentalResults/ExperimentalResults4.png, id=295, 641.39626pt x 334.24875p
+l.51 
+      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
+Exercise 3/Report/ExperimentalResults/ExperimentalResults1.png> <D:/Users/Matti
+e432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Exp
+erimentalResults/ExperimentalResults2.png>]
+<ExperimentalResults/ExperimentalResults4.png, id=285, 565.11125pt x 334.24875p
 t>
 File: ExperimentalResults/ExperimentalResults4.png Graphic file (type png)
  <use ExperimentalResults/ExperimentalResults4.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults4.png used on i
-nput line 54.
-(pdftex.def)             Requested size: 251.07481pt x 130.841pt.
+nput line 56.
+(pdftex.def)             Requested size: 225.96579pt x 133.65121pt.
 
-<ExperimentalResults/ExperimentalResults5.png, id=296, 640.3925pt x 338.26375pt
->
+<ExperimentalResults/ExperimentalResults5.png, id=286, 559.08875pt x 338.26375p
+t>
 File: ExperimentalResults/ExperimentalResults5.png Graphic file (type png)
  <use ExperimentalResults/ExperimentalResults5.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults5.png used on i
-nput line 59.
-(pdftex.def)             Requested size: 251.07481pt x 132.61913pt.
+nput line 62.
+(pdftex.def)             Requested size: 225.96579pt x 136.71733pt.
 
-<ExperimentalResults/ExperimentalResults6.png, id=297, 642.4pt x 339.2675pt>
+<ExperimentalResults/ExperimentalResults6.png, id=287, 558.085pt x 339.2675pt>
 File: ExperimentalResults/ExperimentalResults6.png Graphic file (type png)
 
 <use ExperimentalResults/ExperimentalResults6.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults6.png used on i
-nput line 64.
-(pdftex.def)             Requested size: 251.07481pt x 132.59851pt.
+nput line 68.
+(pdftex.def)             Requested size: 225.96579pt x 137.36633pt.
 
-<ExperimentalResults/ExperimentalResults7.png, id=298, 602.25pt x 372.39125pt>
+<ExperimentalResults/ExperimentalResults7.png, id=288, 541.02126pt x 372.39125p
+t>
 File: ExperimentalResults/ExperimentalResults7.png Graphic file (type png)
-
-<use ExperimentalResults/ExperimentalResults7.png>
+ <use ExperimentalResults/ExperimentalResults7.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults7.png used on i
-nput line 72.
-(pdftex.def)             Requested size: 251.07481pt x 155.24976pt.
+nput line 77.
+(pdftex.def)             Requested size: 225.96579pt x 155.53387pt.
 
-<ExperimentalResults/ExperimentalResults8.png, id=299, 602.25pt x 372.39125pt>
+<ExperimentalResults/ExperimentalResults8.png, id=289, 521.95pt x 372.39125pt>
 File: ExperimentalResults/ExperimentalResults8.png Graphic file (type png)
 
 <use ExperimentalResults/ExperimentalResults8.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults8.png used on i
-nput line 82.
-(pdftex.def)             Requested size: 251.07481pt x 155.24976pt.
- [11pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.85 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.6
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.85 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.7
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.85 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.8
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.85 
-      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
-Exercise 3/Report/ExperimentalResults/ExperimentalResults4.png> <D:/Users/Matti
-e432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Exp
-erimentalResults/ExperimentalResults5.png> <D:/Users/Mattie432/Dropbox/Programm
-ing/Python/Intelligent-Robotics-2014/Exercise 3/Report/ExperimentalResults/Expe
-rimentalResults6.png> <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligen
-t-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults7.png>
-]
-<ExperimentalResults/ExperimentalResults9.png, id=312, 601.24625pt x 608.2725pt
->
-File: ExperimentalResults/ExperimentalResults9.png Graphic file (type png)
- <use ExperimentalResults/ExperimentalResults9.png>
-Package pdftex.def Info: ExperimentalResults/ExperimentalResults9.png used on i
-nput line 96.
-(pdftex.def)             Requested size: 251.07481pt x 254.00624pt.
-
-<ExperimentalResults/ExperimentalResults10.png, id=313, 601.24625pt x 608.2725p
-t>
-File: ExperimentalResults/ExperimentalResults10.png Graphic file (type png)
- <use ExperimentalResults/ExperimentalResults10.png>
-Package pdftex.def Info: ExperimentalResults/ExperimentalResults10.png used on 
-input line 104.
-(pdftex.def)             Requested size: 251.07481pt x 254.00624pt.
-
-Overfull \vbox (66.97841pt too high) has occurred while \output is active []
-
-
-[12pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
+nput line 88.
+(pdftex.def)             Requested size: 225.96579pt x 161.2161pt.
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.111 	\end{multicols}
+l.91 	\end{figure}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{figure.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.91 	\end{figure}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{figure.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.91 	\end{figure}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{figure.7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.91 	\end{figure}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{figure.8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.91 	\end{figure}
+                   <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-R
+obotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults3.png> <D
+:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise
+ 3/Report/ExperimentalResults/ExperimentalResults4.png> <D:/Users/Mattie432/Dro
+pbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Experimenta
+lResults/ExperimentalResults5.png> <D:/Users/Mattie432/Dropbox/Programming/Pyth
+on/Intelligent-Robotics-2014/Exercise 3/Report/ExperimentalResults/Experimental
+Results6.png> <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Roboti
+cs-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults7.png>]
+<ExperimentalResults/ExperimentalResults9.png, id=304, 601.24625pt x 608.2725pt
+>
+File: ExperimentalResults/ExperimentalResults9.png Graphic file (type png)
+ <use ExperimentalResults/ExperimentalResults9.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults9.png used on i
+nput line 104.
+(pdftex.def)             Requested size: 200.86061pt x 203.2087pt.
+
+<ExperimentalResults/ExperimentalResults10.png, id=305, 601.24625pt x 608.2725p
+t>
+File: ExperimentalResults/ExperimentalResults10.png Graphic file (type png)
+ <use ExperimentalResults/ExperimentalResults10.png>
+Package pdftex.def Info: ExperimentalResults/ExperimentalResults10.png used on 
+input line 114.
+(pdftex.def)             Requested size: 200.86061pt x 203.2087pt.
+
+Overfull \vbox (51.42729pt too high) has occurred while \output is active []
+
+
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.122 	\end{multicols}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{figure.10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.111 	\end{multicols}
+l.122 	\end{multicols}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{figure.11}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.111 	\end{multicols}
+l.122 	\end{multicols}
                        <D:/Users/Mattie432/Dropbox/Programming/Python/Intellige
 nt-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults8.png
 > <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exer
 cise 3/Report/ExperimentalResults/ExperimentalResults9.png> <D:/Users/Mattie432
 /Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Experim
 entalResults/ExperimentalResults10.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []|\OT1/cmr/m/n/10 Average
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []|\OT1/cmr/m/n/10 Amount of
  []
 
@@ -1052,30 +1044,22 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-[13]
-<ExperimentalResults/ExperimentalResults11.png, id=328, 602.25pt x 372.39125pt>
+[11]
+<ExperimentalResults/ExperimentalResults11.png, id=319, 348.30125pt x 270.00874
+pt>
 File: ExperimentalResults/ExperimentalResults11.png Graphic file (type png)
-<use ExperimentalResults/ExperimentalResults11.png>
+ <use ExperimentalResults/ExperimentalResults11.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults11.png used on 
-input line 182.
-(pdftex.def)             Requested size: 251.07481pt x 155.24976pt.
+input line 193.
+(pdftex.def)             Requested size: 200.86061pt x 155.71114pt.
 
-<ExperimentalResults/ExperimentalResults12.png, id=329, 592.2125pt x 368.37625p
-t>
+<ExperimentalResults/ExperimentalResults12.png, id=320, 557.08125pt x 326.21875
+pt>
 File: ExperimentalResults/ExperimentalResults12.png Graphic file (type png)
  <use ExperimentalResults/ExperimentalResults12.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults12.png used on 
-input line 191.
-(pdftex.def)             Requested size: 251.07481pt x 156.1784pt.
- [14pdfTeX warning (ext4): destination with the same identifier (name{figure.12
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.194 	A
-        s evidenced by Figure x, 98\% of the time the robot avoided the boar...
- <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exerc
-ise 3/Report/ExperimentalResults/ExperimentalResults11.png>]
+input line 203.
+(pdftex.def)             Requested size: 200.86061pt x 117.61784pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -1083,13 +1067,29 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-<ExperimentalResults/ExperimentalResults13.png, id=337, 602.25pt x 372.39125pt>
+<ExperimentalResults/ExperimentalResults13.png, id=321, 316.18124pt x 275.0275p
+t>
 File: ExperimentalResults/ExperimentalResults13.png Graphic file (type png)
-<use ExperimentalResults/ExperimentalResults13.png>
+ <use ExperimentalResults/ExperimentalResults13.png>
 Package pdftex.def Info: ExperimentalResults/ExperimentalResults13.png used on 
-input line 200.
-(pdftex.def)             Requested size: 251.07481pt x 155.24976pt.
-)
+input line 213.
+(pdftex.def)             Requested size: 200.86061pt x 174.72025pt.
+ [12pdfTeX warning (ext4): destination with the same identifier (name{figure.12
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.216 	\end{figure}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.13}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.216 	\end{figure}
+                    <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-
+Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults11.png> 
+<D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exerci
+se 3/Report/ExperimentalResults/ExperimentalResults12.png>])
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Discussion/Discussion.tex"
 Missing character: There is no ‚ in font cmr10!
@@ -1106,31 +1106,21 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 )
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
-ise 3\Report\References/References.tex" [15pdfTeX warning (ext4): destination w
-ith the same identifier (name{figure.13}) has been already used, duplicate igno
-red
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.24 \item M
-            ark W. Spong and Masayuki Fujita, 2004.pdfTeX warning (ext4): desti
-nation with the same identifier (name{figure.14}) has been already used, duplic
-ate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.24 \item M
-            ark W. Spong and Masayuki Fujita, 2004. <D:/Users/Mattie432/Dropbox
-/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/ExperimentalRes
-ults/ExperimentalResults12.png> <D:/Users/Mattie432/Dropbox/Programming/Python/
-Intelligent-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalRes
-ults13.png>]
+ise 3\Report\References/References.tex"
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+ [13pdfTeX warning (ext4): destination with the same identifier (name{figure.14
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.36 
+      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
+Exercise 3/Report/ExperimentalResults/ExperimentalResults13.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -1185,7 +1175,11 @@ Missing character: There is no ù in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [16]
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--84
+\OT1/cmr/m/n/10 Behavior-based Robotics And The Re-ac-tive
+ []
+
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -1234,6 +1228,7 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+[14]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -1246,27 +1241,27 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [17])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
- [18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
+ [15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
 
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\Exercise_3.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 61.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 Package rerunfilecheck Info: File `Exercise_3.out' has not changed.
 (rerunfilecheck)             Checksum: A632A88DD96695D34340513515610EEB;2952.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 61.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
  ) 
 Here is how much of TeX's memory you used:
- 7898 strings out of 493921
- 125120 string characters out of 3144864
- 231165 words of memory out of 3000000
+ 7895 strings out of 493921
+ 125099 string characters out of 3144864
+ 230165 words of memory out of 3000000
  10881 multiletter control sequences out of 15000+200000
  7693 words of font info for 28 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,8n,37p,1416b,794s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,8n,37p,1416b,591s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
@@ -1275,9 +1270,9 @@ ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program File
 s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x
 86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Exercise_3.pdf (18 pages, 521528 bytes).
+Output written on Exercise_3.pdf (15 pages, 509877 bytes).
 PDF statistics:
- 463 PDF objects out of 1000 (max. 8388607)
- 123 named destinations out of 1000 (max. 500000)
+ 450 PDF objects out of 1000 (max. 8388607)
+ 120 named destinations out of 1000 (max. 500000)
  412 words of extra memory for PDF output out of 10000 (max. 10000000)
 
