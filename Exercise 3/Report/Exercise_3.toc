@@ -3,41 +3,41 @@
 \contentsline {section}{\numberline {2}Introduction}{4}{section.2}
 \contentsline {subsection}{\numberline {2.1}Background and Prerequisites}{4}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Outline of the paper}{4}{subsection.2.2}
-\contentsline {section}{\numberline {3}Literature Review}{5}{section.3}
-\contentsline {subsection}{\numberline {3.1}The History of Robotic Control}{5}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Hierarchical Paradigm}{5}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Reactive Paradigm}{6}{subsubsection.3.1.2}
-\contentsline {subsubsection}{\numberline {3.1.3}Behaviour-Based Robotics}{6}{subsubsection.3.1.3}
-\contentsline {subsubsection}{\numberline {3.1.4}Hybrid Paradigm}{6}{subsubsection.3.1.4}
-\contentsline {subsection}{\numberline {3.2}Localisation}{6}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}Markov Localisation}{7}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Kalman Filters}{7}{subsubsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.3}Monte Carlo Localization}{7}{subsubsection.3.2.3}
-\contentsline {subsection}{\numberline {3.3}Motion Planning}{8}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Person Detection}{8}{subsection.3.4}
-\contentsline {section}{\numberline {4}Design}{10}{section.4}
-\contentsline {subsection}{\numberline {4.1}Hardware and Software}{10}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Control Architecture}{10}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Localization}{10}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Navigation and Exploration}{11}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Obstacle Avoidance}{11}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}Person Detection}{11}{subsection.4.6}
-\contentsline {section}{\numberline {5}Experimental Results}{12}{section.5}
-\contentsline {subsection}{\numberline {5.1}Odometry Noise}{12}{subsection.5.1}
-\contentsline {subsubsection}{\numberline {5.1.1}Translation Noise}{12}{subsubsection.5.1.1}
-\contentsline {subsubsection}{\numberline {5.1.2}Drift Noise}{14}{subsubsection.5.1.2}
-\contentsline {subsubsection}{\numberline {5.1.3}Rotation Noise}{15}{subsubsection.5.1.3}
-\contentsline {subsection}{\numberline {5.2}Localisation Performance}{16}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Exploration}{17}{subsection.5.3}
-\contentsline {subsubsection}{\numberline {5.3.1}Random Exploration}{17}{subsubsection.5.3.1}
-\contentsline {subsubsection}{\numberline {5.3.2}Specific Point Exploration}{18}{subsubsection.5.3.2}
-\contentsline {subsection}{\numberline {5.4}Human Detection Testing}{18}{subsection.5.4}
-\contentsline {subsubsection}{\numberline {5.4.1}Leg Detector Average}{18}{subsubsection.5.4.1}
-\contentsline {subsubsection}{\numberline {5.4.2}Leg Detector Parameters}{19}{subsubsection.5.4.2}
-\contentsline {subsubsection}{\numberline {5.4.3}Leg Detector detection rate}{20}{subsubsection.5.4.3}
-\contentsline {subsection}{\numberline {5.5}Obstacle Detection}{20}{subsection.5.5}
-\contentsline {subsection}{\numberline {5.6}Overall Performance Testing}{21}{subsection.5.6}
-\contentsline {section}{\numberline {6}Discussion}{23}{section.6}
-\contentsline {subsection}{\numberline {6.1}Conclusions and Future Work}{23}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Acknowledgements}{23}{subsection.6.2}
-\contentsline {section}{\numberline {7}References}{24}{section.7}
+\contentsline {section}{\numberline {3}Literature Review}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}The History of Robotic Control}{4}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Hierarchical Paradigm}{4}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Reactive Paradigm}{4}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Behaviour-Based Robotics}{5}{subsubsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.4}Hybrid Paradigm}{5}{subsubsection.3.1.4}
+\contentsline {subsection}{\numberline {3.2}Localisation}{5}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Markov Localisation}{6}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Kalman Filters}{6}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Monte Carlo Localization}{6}{subsubsection.3.2.3}
+\contentsline {subsection}{\numberline {3.3}Motion Planning}{6}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Person Detection}{7}{subsection.3.4}
+\contentsline {section}{\numberline {4}Design}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Hardware and Software}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Control Architecture}{8}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Localization}{8}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Navigation and Exploration}{8}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Obstacle Avoidance}{8}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Person Detection}{9}{subsection.4.6}
+\contentsline {section}{\numberline {5}Experimental Results}{9}{section.5}
+\contentsline {subsection}{\numberline {5.1}Odometry Noise}{9}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Translation Noise}{9}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Drift Noise}{11}{subsubsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.3}Rotation Noise}{11}{subsubsection.5.1.3}
+\contentsline {subsection}{\numberline {5.2}Localisation Performance}{11}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Exploration}{12}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Random Exploration}{12}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Specific Point Exploration}{12}{subsubsection.5.3.2}
+\contentsline {subsection}{\numberline {5.4}Human Detection Testing}{12}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Leg Detector Average}{12}{subsubsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.2}Leg Detector Parameters}{13}{subsubsection.5.4.2}
+\contentsline {subsubsection}{\numberline {5.4.3}Leg Detector detection rate}{14}{subsubsection.5.4.3}
+\contentsline {subsection}{\numberline {5.5}Obstacle Detection}{15}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Overall Performance Testing}{15}{subsection.5.6}
+\contentsline {section}{\numberline {6}Discussion}{15}{section.6}
+\contentsline {subsection}{\numberline {6.1}Conclusions and Future Work}{15}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Acknowledgements}{15}{subsection.6.2}
+\contentsline {section}{\numberline {7}References}{16}{section.7}

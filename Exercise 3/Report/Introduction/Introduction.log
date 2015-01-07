@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  5 JAN 2015 17:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  7 JAN 2015 00:12
 entering extended mode
 **Introduction.tex
 
@@ -241,15 +241,15 @@ ise 3\Report\Introduction\Introduction.aux") )
 Here is how much of TeX's memory you used:
  1693 strings out of 493921
  24115 string characters out of 3144864
- 85481 words of memory out of 3000000
+ 93481 words of memory out of 3000000
  5018 multiletter control sequences out of 15000+200000
  4850 words of font info for 18 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,4n,19p,765b,109s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,4n,19p,765b,162s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Introduction.pdf (1 page, 34864 bytes).
+Output written on Introduction.pdf (1 page, 34975 bytes).
 PDF statistics:
  14 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -13,6 +13,7 @@
 
 
 \begin{document}
+	\begin{multicols}{2}
     \section{Design}
 This section details and analyzes the design choices we took as a team. All of our choices were mediated through experimentation, reference to the background literature, as well as availability and feasibility.
 
@@ -63,5 +64,5 @@ We tested two possible exploration strategies for our robot. One strategy was al
 	As per the sub-task of identifying persons, we adopted a laser based leg-detection system as developed by Macro Becerra, a demonstrator for this module. The algorithm is detailed thoroughly in the Literature Review section 3.4.
 
 Whilst we implemented the basic algorithm as described in in section 3.4 in our robot, there are several improvements we could have considered. One such improvement would be integrating face detection with leg detection to arrive at a more accurate conclusion on the presence of a person. Another (more difficult) improvement would have been to track the person/s in real time. This would have the immediate advantage of eliminating some false positives from the leg and face detection (i.e. a person can't just appear/disappear in the middle of the scene). Tracking a walking person, however, is not a trivial task. There are many factors which may influence the human trajectories, such as the environment, the number of people, and the interactions among them. In fact, the unpredictability of such behaviors have been modeled by some researchers as Brownian motion [29]. Typically, Kalman Filters are used to track persons, as they are fundamentally designed to predict a process’s state and then use measurements to correct or ‘update’ these predictions. In this regard, their purpose and function in tracking persons is not at all dissimilar to that in motion tracking.
-
+\end{multicols}
 \end{document}

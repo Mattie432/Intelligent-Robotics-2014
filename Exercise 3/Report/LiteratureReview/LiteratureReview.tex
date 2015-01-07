@@ -10,15 +10,16 @@
 
 
 \begin{document}
+	\begin{multicols}{2}
     \section{Literature Review}
 	\subsection{The History of Robotic Control}
 	Many different techniques and approaches for robotic control have been developed (Arkin, 1998). The robotic control system is, in fact, a continuous spectrum that ranges from purely deliberative reasoning at one extreme to purely reactive control at the other, with the myriad existing architectures fitting somewhere on the spectrum.
 	
-	\begin{figure}[h!]
-	\centering
-	\includegraphics[width=0.8\linewidth]{LiteratureReview1}
-	\caption{Robot Control System Spectrum (Arkin, 1998)}
-	\end{figure}
+%	\begin{figure}[h!]
+%	\centering
+%	\includegraphics[width=0.8\linewidth]{LiteratureReview1}
+%	\caption{Robot Control System Spectrum (Arkin, 1998)}
+%	\end{figure}
 
 	\subsubsection{Hierarchical Paradigm}
 	The foremost paradigm of robotic control, the deliberative/hierarchical paradigm, focuses primarily on the planning stage of the behavioural cycle. Robots developed with a hierarchical architecture are essentially reflex agents [3], selecting actions from rule matches on the current ‘perceptions’ from sensory input. This approach typically employs a top-down view to design; an end-goal is realised and a sequence of modules are developed. These modules work to read values from the sensors available to gauge the proximate environment (perception), devise strategies to perform the desired behaviours given said perception (cognition), and then compose the signals that control the actuators to execute these behaviours to achieve the end goal (action).
@@ -56,9 +57,6 @@ The hybrid paradigm altered the Sense-Plan-Act trilogy by allowing the Plan stag
 A 1995 workshop indicated that a multi-layered hybrid architecture comprising of a top-layer planning system and a lower level reactive system is the emerging architecture of choice in robot control design [1].
 
 	\subsection{Localisation}
-
-	\href{http://www.negenborn.net/kal_loc/thesis.pdf}{\textcolor{blue}{\uline{www.negenborn.net/kal\_loc/thesis.pdf}}} \\
- 
 	Localisation, as applied to Robotics, is the difficult task for an autonomous robot to construct or use a map (or floor plan) and correctly position itself within it. There are several methods and technologies available to the end of achieving localisation including, but not limited to, GPS, odometry (dead reckoning\footnote{The process of calculating one's current position by using a previously determined position, or fix, and advancing that position based upon known or estimated speeds over elapsed time and course; for example using the number of wheel revolutions of the robot.}) and laser and sonar. In each approach however, improvements in accuracy come at the cost of increasingly expensive hardware and  additional processing power. 
 
 A robot has two types of information sources in regards to localization: the idiothetic and the allothetic, and most biologically-inspired models for robots use a combination of both [5]. Tracking the number of wheel revolutions of the Robot is an idiothetic source, and whilst it can give the absolute position of the Robot, it can become subject to cumulative error which grows rapidly. Allothetic sources, by contrast, are the sensors of the robot (such as laser and sonar). The problem with allothetic sources  is "perceptual aliasing", which is where two different places can be perceived as the same. In an office building, for example, it may be impossible to correctly localise from sensor information alone if all corridors are identical (and thus providing identical or near-identical sensory feedback).
@@ -101,5 +99,6 @@ In recent years, the social aspect of service robots has made it clear that they
 The most common devices used for people identification and tracking are laser sensors and cameras [29]. The solution we adopted is laser-based leg detection system that uses the front-mounted laser scanner and was taken from the thesis work of one of the module demonstrators, Marco Becerra, and is available (in Spanish) at [29].  Marco’s work is itself based on the work of Nicola Bellotto and Huosheng Hu, available at [28].
 
 The basic premise of the detection algorithm is to identify typical patterns (relative to particular leg postures) that, in most of the cases, are well distinguishable from the other objects in the environment. These patterns correspond to the following three typical situations: two legs apart (LA), forward straddle (FS), and two legs together or (SL). The first pattern is usually very common in case the person is standing in front of the robot. The second, however, is most likely to happen when the person is walking. The last pattern covers most of the remaining possible postures. The results of the laser scan are preprocessed into a string pattern, and then checked for likeness to any of the typical leg patterns (subject to standard human dimensions - e.g. a leg cannot be 10 meters wide) through regular expression matching.
+\end{multicols}
 
 \end{document}

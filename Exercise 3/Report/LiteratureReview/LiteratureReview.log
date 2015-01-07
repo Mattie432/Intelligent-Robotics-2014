@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  5 JAN 2015 18:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  7 JAN 2015 00:12
 entering extended mode
 **LiteratureReview.tex
 
@@ -360,50 +360,33 @@ ise 3\Report\LiteratureReview\LiteratureReview.out")
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<LiteratureReview1.png, id=51, 1606.0pt x 916.42375pt>
-File: LiteratureReview1.png Graphic file (type png)
-
-<use LiteratureReview1.png>
-Package pdftex.def Info: LiteratureReview1.png used on input line 19.
-(pdftex.def)             Requested size: 354.86412pt x 202.49481pt.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-
-<LiteratureReview2.png, id=52, 1058.45438pt x 435.12563pt>
+<LiteratureReview2.png, id=51, 1058.45438pt x 435.12563pt>
 File: LiteratureReview2.png Graphic file (type png)
 
 <use LiteratureReview2.png>
-Package pdftex.def Info: LiteratureReview2.png used on input line 28.
-(pdftex.def)             Requested size: 354.86412pt x 145.8825pt.
+Package pdftex.def Info: LiteratureReview2.png used on input line 29.
+(pdftex.def)             Requested size: 173.43204pt x 71.29466pt.
+
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [1
-
-{D:/Users/Mattie432/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}pdfTeX wa
-rning (ext4): destination with the same identifier (name{figure.1}) has been al
-ready used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.34 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.2
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.34 
-      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
-Exercise 3/Report/LiteratureReview/LiteratureReview1.png> <D:/Users/Mattie432/D
-ropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Literatur
-eReview/LiteratureReview2.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -419,19 +402,17 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [2]
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+[1
 
- []
-
+{D:/Users/Mattie432/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 62.
+(Font)              <7> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 62.
+(Font)              <5> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 62.
+(Font)              <8> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 62.
+(Font)              <6> on input line 60.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
@@ -459,12 +440,59 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 2 might be wrong on input line 72.
+
+[2]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 3 might be wrong on input line 91.
+
 [3]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -474,73 +502,36 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
-Missing character: There is no ˜ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ˜ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ˜ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ˜ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
  [4]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
- [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
 
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\LiteratureReview\LiteratureReview.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
 Package rerunfilecheck Info: File `LiteratureReview.out' has not changed.
 (rerunfilecheck)             Checksum: 19E73E7F18BFEEBB4B4E1AE40D1ACD2B;883.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
  ) 
 Here is how much of TeX's memory you used:
- 5723 strings out of 493921
- 85809 string characters out of 3144864
- 176612 words of memory out of 3000000
- 8960 multiletter control sequences out of 15000+200000
+ 5713 strings out of 493921
+ 85639 string characters out of 3144864
+ 186612 words of memory out of 3000000
+ 8954 multiletter control sequences out of 15000+200000
  7087 words of font info for 26 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,8n,28p,1151b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,8n,28p,1151b,453s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on LiteratureReview.pdf (5 pages, 3728538 bytes).
+Output written on LiteratureReview.pdf (4 pages, 111892 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 107 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 108 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 

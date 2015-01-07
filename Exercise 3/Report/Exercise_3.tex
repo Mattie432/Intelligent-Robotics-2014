@@ -14,6 +14,7 @@
 \usepackage{wrapfig}
 \usepackage{longtable}
 
+\usepackage[parfill]{parskip}
 
 
 
@@ -35,18 +36,26 @@
 	\newpage
 
 	%adjust page width for sections
-	\newgeometry{left=1.5cm,right=1.5cm,bottom=2cm,top=2cm}
-
+		\newgeometry{left=1.5cm,right=1.5cm,bottom=2cm,top=2cm}
 	\input{Introduction/Introduction}
-	\newpage
+	\begin{center}
+	\hrulefill
+	\end{center}
 	\input{LiteratureReview/LiteratureReview}
-	\newpage
+	\begin{center}
+	\hrulefill
+	\end{center}
 	\input{Design/Design}
-	\newpage
+	\begin{center}
+	\hrulefill
+	\end{center}
 	\input{ExperimentalResults/ExperimentalResults}
-	\newpage
+	\begin{center}
+	\hrulefill
+	\end{center}
 	\input{Discussion/Discussion}
-	\newpage
+	\begin{center}
+	\hrulefill
+	\end{center}
 	\input{References/References}
-	
 \end{document}

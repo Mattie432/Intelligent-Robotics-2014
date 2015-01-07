@@ -16,6 +16,7 @@
 
 
 \begin{document}
+	\begin{multicols}{2}
     \section{Experimental Results}
 	In order measure performance and to best guide the design choices available, we conducted several experiments on the key components of the task. This section details and discusses the methods, results, and implications of the testing.
 
@@ -87,43 +88,27 @@ Our results (Figure 4.4) show that the ACML implementation outperforms our MCL i
 	
 	
 	\subsection{Exploration}
-	We tested two possible exploration strategies for our robot. One strategy was allowing the robot to free roam and the other was setting a fixed path through hard-coded points.\\
+	We tested two possible exploration strategies for our robot. One strategy was allowing the robot to free roam and the other was setting a fixed path through hard-coded points.
 	
-	\begin{minipage}{\linewidth}
-      \centering
-      \begin{minipage}[b]{0.45\linewidth}
       \subsubsection{Random Exploration}
    To test the feasibility of the random navigation strategy we allowed the robot to freely roam across the floor. In free roaming it discovered more areas, and in more detail, than the specific point navigation strategy. However, as seen from Figure 9, the exploration is stochastic and inefficient: the robot often looped back on itself, at times circling for several minutes.
-      \end{minipage}
-      \hspace{0.05\linewidth}
-      \begin{minipage}{0.45\linewidth}
-          \begin{figure}[H]
+  \begin{figure}[H]
               \includegraphics[width=\linewidth]{ExperimentalResults9}
               \caption{Random exploration route}
           \end{figure}
-      \end{minipage}
-  \end{minipage}
-  
-  
-	\begin{minipage}{\linewidth}
-      \centering
-      \begin{minipage}[b]{0.45\linewidth}
+          
       \subsubsection{Specific Point Exploration}
    In the specific point exploration strategy we gave our robot 6 points in which to roam. Though significantly reducing the overall exploration range, it did make identifying people much faster, as only those map regions with high likelihood to have a person were explored and areas such as corners ignored. Additionally, the robot did not loop back on itself or otherwise behave inefficiently. We selected this strategy in our implementation.
 
-      \end{minipage}
-      \hspace{0.05\linewidth}
-      \begin{minipage}{0.45\linewidth}
           \begin{figure}[H]
               \includegraphics[width=\linewidth]{ExperimentalResults10}
               \caption{Plotted exploration route}
           \end{figure}
-      \end{minipage}
-  \end{minipage}
 	
 	\subsection{Human Detection Testing}
 	\subsubsection{Leg Detector Average}
 	To measure the best value for the leg detector average we let the robot roam along a set path using the navigation stack as the driver, recording the averages calculated from the number of legs detected/the number of readings taken. This provided an average value to increase the effectiveness of our leg detection. We measured and modified the amount of readings taken before calculating the average and the threshold value to cause the Robot to believe a person was present to find the most suitable parameters for the task.
+	\end{multicols}
 
 	\begin{longtable}{r | p{2cm} | p{2.5cm} | p{8cm} }
 	Test & Average number & Amount of Readings taken & Observed Result \\
@@ -154,12 +139,12 @@ Our results (Figure 4.4) show that the ACML implementation outperforms our MCL i
 15 & 1.5 & 150000 & The higher number of readings meant the average was lower. It rarely reached over the threshold. \\[1ex]
 	
 	\end{longtable}
-	
+	\begin{multicols}{2}
 	Based on the experimental data we chose to use 100,000 readings with an average of 1. This gave us the most accurate detection rate that someone was present whilst also performing in a reasonable amount of time. Using more readings, whilst producing a more accurate result, would not have yielded a timely enough result. The average of ‘1’ means that the robot has to have seen at least one person during the entirety of its scan. This dramatically reduced the false positive rate while exploring; whilst the leg detector might produce false positives at a given point it is unlikely to detect it over its entire scan.
 
 	\subsubsection{Leg Detector Parameters}
 	To determine the best parameters for the Leg Detection algorithm (largely to eliminate the large number of false positives which it originally suffered), we placed the robot in a fixed, stationary position, looking in to a corridor (the most controlled setting we could find). We then ran our tests, first seeing if the values detected any false positives. We then changed the values to try and reduce these false positives and then introduced a person into the scanners range to check that they were accurately detected.
-
+	\end{multicols}
 \begin{longtable}{r|r|r|r|r|r|p{8cm}}
 AMin & AMax & BMin & BMax & CMin & CMax & Observed Result\\
 \hline
@@ -187,6 +172,7 @@ AMin & AMax & BMin & BMax & CMin & CMax & Observed Result\\
  
  0.1 & 0.2 & 0 & 0.3 & 1000 & 1000 & This is to stop it having an effect at all. These seems to make the robot a lot more reliable.\\
  \end{longtable}
+ \begin{multicols}{2}
 	The parameters we chose are highlighted in bold with qualitative justification presented in the observed result column. After our tests were complete we ran the robot through the full program to check that these results behaved as expected in the viva environment.
 	
 	\subsubsection{Leg Detector detection rate}
@@ -215,5 +201,6 @@ AMin & AMax & BMin & BMax & CMin & CMax & Observed Result\\
 	\caption{Leg detector detection rate of person}
 	\end{figure}
 	The feedback from the full-run tests was reassuring; the tests completed successfully 80\% of the time. The reasons for the tests failing were one instance of an object entering the domain and the robot failing to stop in time as it was going too fast (subsequently fixed). The second time the robot got 'stuck' in a corner which, given enough time, we believe it may have eventually worked its self free.
+	\end{multicols}
 
 \end{document}

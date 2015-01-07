@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  5 JAN 2015 23:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  7 JAN 2015 00:22
 entering extended mode
 **ExperimentalResults.tex
 
@@ -412,22 +412,22 @@ ise 3\Report\ExperimentalResults\ExperimentalResults.out")
 File: ExperimentalResults1.png Graphic file (type png)
 
 <use ExperimentalResults1.png>
-Package pdftex.def Info: ExperimentalResults1.png used on input line 31.
-(pdftex.def)             Requested size: 443.57848pt x 281.84373pt.
+Package pdftex.def Info: ExperimentalResults1.png used on input line 32.
+(pdftex.def)             Requested size: 216.78923pt x 137.74121pt.
 
 <ExperimentalResults2.png, id=65, 637.38126pt x 400.49625pt>
 File: ExperimentalResults2.png Graphic file (type png)
 
 <use ExperimentalResults2.png>
-Package pdftex.def Info: ExperimentalResults2.png used on input line 36.
-(pdftex.def)             Requested size: 443.57848pt x 278.71991pt.
+Package pdftex.def Info: ExperimentalResults2.png used on input line 37.
+(pdftex.def)             Requested size: 216.78923pt x 136.2158pt.
 
 <ExperimentalResults3.png, id=66, 643.40375pt x 377.41pt>
 File: ExperimentalResults3.png Graphic file (type png)
 
 <use ExperimentalResults3.png>
-Package pdftex.def Info: ExperimentalResults3.png used on input line 41.
-(pdftex.def)             Requested size: 443.57848pt x 260.20586pt.
+Package pdftex.def Info: ExperimentalResults3.png used on input line 42.
+(pdftex.def)             Requested size: 216.78923pt x 127.16594pt.
  [1
 
 {D:/Users/Mattie432/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}pdfTeX wa
@@ -436,247 +436,230 @@ ready used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.43 	\end{figure}
-                   <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-R
-obotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults1.png>]
-[2pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
-has been already used, duplicate ignored
+l.46 	\newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.45 	\newpage
+l.46 	\newpage
               pdfTeX warning (ext4): destination with the same identifier (name
 {figure.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.45 	\newpage
+l.46 	\newpage
                <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robot
-ics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults2.png> <D:/Us
+ics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults1.png> <D:/Us
 ers/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/R
-eport/ExperimentalResults/ExperimentalResults3.png>]
-<ExperimentalResults4.png, id=85, 641.39626pt x 334.24875pt>
+eport/ExperimentalResults/ExperimentalResults2.png> <D:/Users/Mattie432/Dropbox
+/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/ExperimentalRes
+ults/ExperimentalResults3.png>]
+<ExperimentalResults4.png, id=81, 641.39626pt x 334.24875pt>
 File: ExperimentalResults4.png Graphic file (type png)
 
 <use ExperimentalResults4.png>
-Package pdftex.def Info: ExperimentalResults4.png used on input line 53.
-(pdftex.def)             Requested size: 443.57848pt x 231.1674pt.
+Package pdftex.def Info: ExperimentalResults4.png used on input line 54.
+(pdftex.def)             Requested size: 216.78923pt x 112.97493pt.
 
-<ExperimentalResults5.png, id=86, 640.3925pt x 338.26375pt>
+<ExperimentalResults5.png, id=82, 640.3925pt x 338.26375pt>
 File: ExperimentalResults5.png Graphic file (type png)
 
 <use ExperimentalResults5.png>
-Package pdftex.def Info: ExperimentalResults5.png used on input line 58.
-(pdftex.def)             Requested size: 443.57848pt x 234.30548pt.
+Package pdftex.def Info: ExperimentalResults5.png used on input line 59.
+(pdftex.def)             Requested size: 216.78923pt x 114.50748pt.
 
-<ExperimentalResults6.png, id=87, 642.4pt x 339.2675pt>
+<ExperimentalResults6.png, id=83, 642.4pt x 339.2675pt>
 File: ExperimentalResults6.png Graphic file (type png)
 
 <use ExperimentalResults6.png>
-Package pdftex.def Info: ExperimentalResults6.png used on input line 63.
-(pdftex.def)             Requested size: 443.57848pt x 234.27083pt.
- [3pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
- has been already used, duplicate ignored
+Package pdftex.def Info: ExperimentalResults6.png used on input line 64.
+(pdftex.def)             Requested size: 216.78923pt x 114.49007pt.
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.65 	\end{figure}
-                   <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-R
-obotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults4.png>]
-<ExperimentalResults7.png, id=94, 602.25pt x 372.39125pt>
+<ExperimentalResults7.png, id=84, 602.25pt x 372.39125pt>
 File: ExperimentalResults7.png Graphic file (type png)
 
 <use ExperimentalResults7.png>
-Package pdftex.def Info: ExperimentalResults7.png used on input line 71.
-(pdftex.def)             Requested size: 443.57848pt x 274.29239pt.
- [4pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
+Package pdftex.def Info: ExperimentalResults7.png used on input line 72.
+(pdftex.def)             Requested size: 216.78923pt x 134.04938pt.
+
+<ExperimentalResults8.png, id=85, 602.25pt x 372.39125pt>
+File: ExperimentalResults8.png Graphic file (type png)
+
+<use ExperimentalResults8.png>
+Package pdftex.def Info: ExperimentalResults8.png used on input line 82.
+(pdftex.def)             Requested size: 216.78923pt x 134.04938pt.
+ [2pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.74 
+l.85 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.85 
      pdfTeX warning (ext4): destination with the same identifier (name{figure.6
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.74 
-      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
-Exercise 3/Report/ExperimentalResults/ExperimentalResults5.png> <D:/Users/Matti
-e432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Exp
-erimentalResults/ExperimentalResults6.png>]
-<ExperimentalResults8.png, id=103, 602.25pt x 372.39125pt>
-File: ExperimentalResults8.png Graphic file (type png)
-
-<use ExperimentalResults8.png>
-Package pdftex.def Info: ExperimentalResults8.png used on input line 81.
-(pdftex.def)             Requested size: 443.57848pt x 274.29239pt.
- [5pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
- has been already used, duplicate ignored
+l.85 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.7
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.84 
+l.85 
       <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/
-Exercise 3/Report/ExperimentalResults/ExperimentalResults7.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
-
- []
-
-<ExperimentalResults9.png, id=110, 601.24625pt x 608.2725pt>
+Exercise 3/Report/ExperimentalResults/ExperimentalResults4.png> <D:/Users/Matti
+e432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Exp
+erimentalResults/ExperimentalResults5.png> <D:/Users/Mattie432/Dropbox/Programm
+ing/Python/Intelligent-Robotics-2014/Exercise 3/Report/ExperimentalResults/Expe
+rimentalResults6.png> <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligen
+t-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults7.png>
+] <ExperimentalResults9.png, id=98, 601.24625pt x 608.2725pt>
 File: ExperimentalResults9.png Graphic file (type png)
 
 <use ExperimentalResults9.png>
-Package pdftex.def Info: ExperimentalResults9.png used on input line 101.
-(pdftex.def)             Requested size: 199.60895pt x 201.93713pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 104.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 104.
+Package pdftex.def Info: ExperimentalResults9.png used on input line 96.
+(pdftex.def)             Requested size: 216.78923pt x 219.32135pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 92--106
-[]$[]$ 
- []
-
-<ExperimentalResults10.png, id=111, 601.24625pt x 608.2725pt>
+<ExperimentalResults10.png, id=99, 601.24625pt x 608.2725pt>
 File: ExperimentalResults10.png Graphic file (type png)
 
 <use ExperimentalResults10.png>
-Package pdftex.def Info: ExperimentalResults10.png used on input line 118.
-(pdftex.def)             Requested size: 199.60895pt x 201.93713pt.
+Package pdftex.def Info: ExperimentalResults10.png used on input line 104.
+(pdftex.def)             Requested size: 216.78923pt x 219.32135pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 108--123
-[]$[]$ 
- []
+Overfull \vbox (47.22556pt too high) has occurred while \output is active []
 
-[6pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) 
+
+[3pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.124 	\subsection
-                  {Human Detection Testing}pdfTeX warning (ext4): destination w
-ith the same identifier (name{figure.9}) has been already used, duplicate ignor
-ed
+l.111 	\end{multicols}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{figure.9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.124 	\subsection
-                  {Human Detection Testing} <D:/Users/Mattie432/Dropbox/Program
-ming/Python/Intelligent-Robotics-2014/Exercise 3/Report/ExperimentalResults/Exp
-erimentalResults8.png> <D:/Users/Mattie432/Dropbox/Programming/Python/Intellige
-nt-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults9.png
->]
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
+l.111 	\end{multicols}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{figure.10}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.111 	\end{multicols}
+                       <D:/Users/Mattie432/Dropbox/Programming/Python/Intellige
+nt-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults8.png
+> <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exer
+cise 3/Report/ExperimentalResults/ExperimentalResults9.png> <D:/Users/Mattie432
+/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exercise 3/Report/Experim
+entalResults/ExperimentalResults10.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 []|\OT1/cmr/m/n/10 Average
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 []|\OT1/cmr/m/n/10 Amount of
  []
 
-[7pdfTeX warning (ext4): destination with the same identifier (name{figure.10})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.156 	\end{longtable}
-                       <D:/Users/Mattie432/Dropbox/Programming/Python/Intellige
-nt-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults10.pn
-g>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-
-Overfull \hbox (22.48851pt too wide) in alignment at lines 163--186
+[4]
+Overfull \hbox (22.48851pt too wide) in alignment at lines 148--171
  [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (22.48851pt too wide) in alignment at lines 186--189
+Overfull \hbox (22.48851pt too wide) in alignment at lines 171--174
  [] [] [] [] [] [] [] 
  []
 
-[8] <ExperimentalResults11.png, id=131, 602.25pt x 372.39125pt>
+<ExperimentalResults11.png, id=113, 602.25pt x 372.39125pt>
 File: ExperimentalResults11.png Graphic file (type png)
 
 <use ExperimentalResults11.png>
-Package pdftex.def Info: ExperimentalResults11.png used on input line 196.
-(pdftex.def)             Requested size: 443.57848pt x 274.29239pt.
-
-<ExperimentalResults12.png, id=132, 592.2125pt x 368.37625pt>
-File: ExperimentalResults12.png Graphic file (type png)
-
-<use ExperimentalResults12.png>
-Package pdftex.def Info: ExperimentalResults12.png used on input line 205.
-(pdftex.def)             Requested size: 443.57848pt x 275.92737pt.
- [9pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
+Package pdftex.def Info: ExperimentalResults11.png used on input line 182.
+(pdftex.def)             Requested size: 216.78923pt x 134.04938pt.
+ [5pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.207 	\end{figure}
-                    <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-
-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults11.png>]
+l.186 
+       <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014
+/Exercise 3/Report/ExperimentalResults/ExperimentalResults11.png>]
+<ExperimentalResults12.png, id=121, 592.2125pt x 368.37625pt>
+File: ExperimentalResults12.png Graphic file (type png)
+
+<use ExperimentalResults12.png>
+Package pdftex.def Info: ExperimentalResults12.png used on input line 191.
+(pdftex.def)             Requested size: 216.78923pt x 134.84686pt.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-<ExperimentalResults13.png, id=139, 602.25pt x 372.39125pt>
+
+<ExperimentalResults13.png, id=122, 602.25pt x 372.39125pt>
 File: ExperimentalResults13.png Graphic file (type png)
 
 <use ExperimentalResults13.png>
-Package pdftex.def Info: ExperimentalResults13.png used on input line 214.
-(pdftex.def)             Requested size: 443.57848pt x 274.29239pt.
- [10pdfTeX warning (ext4): destination with the same identifier (name{figure.12
-}) has been already used, duplicate ignored
+Package pdftex.def Info: ExperimentalResults13.png used on input line 200.
+(pdftex.def)             Requested size: 216.78923pt x 134.04938pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
+ [6pdfTeX warning (ext4): destination with the same identifier (name{figure.12}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.217 	T
-        he feedback from the full-run tests was reassuring; the tests comple...
- <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exerc
-ise 3/Report/ExperimentalResults/ExperimentalResults12.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 219.
- [11pdfTeX warning (ext4): destination with the same identifier (name{figure.13
-}) has been already used, duplicate ignored
+l.206 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.219 \end{document}
+l.206 \end{document}
                      <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent
--Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults13.png>
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 219.
+-Robotics-2014/Exercise 3/Report/ExperimentalResults/ExperimentalResults12.png>
+ <D:/Users/Mattie432/Dropbox/Programming/Python/Intelligent-Robotics-2014/Exerc
+ise 3/Report/ExperimentalResults/ExperimentalResults13.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
 
 ("D:\Users\Mattie432\Dropbox\Programming\Python\Intelligent-Robotics-2014\Exerc
 ise 3\Report\ExperimentalResults\ExperimentalResults.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 219.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 219.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
 Package rerunfilecheck Info: File `ExperimentalResults.out' has not changed.
 (rerunfilecheck)             Checksum: C4445EFF937715806DC254DAD942A627;1115.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 219.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 206.
  ) 
 Here is how much of TeX's memory you used:
- 6244 strings out of 493921
- 94584 string characters out of 3144864
- 205140 words of memory out of 3000000
- 9444 multiletter control sequences out of 15000+200000
+ 6237 strings out of 493921
+ 94524 string characters out of 3144864
+ 202140 words of memory out of 3000000
+ 9442 multiletter control sequences out of 15000+200000
  5264 words of font info for 20 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,10n,28p,698b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,7n,28p,698b,696s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on ExperimentalResults.pdf (11 pages, 351145 bytes).
+Output written on ExperimentalResults.pdf (6 pages, 349592 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
  186 words of extra memory for PDF output out of 10000 (max. 10000000)
 
