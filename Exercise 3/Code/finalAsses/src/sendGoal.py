@@ -1,0 +1,47 @@
+#!/usr/bin/env python
+
+import roslib
+
+import rospy
+from move_base_msgs.msg import MoveBaseAction, MoveBaseGoal
+import actionlib
+import time
+from geometry_msgs.msg import Twist
+from sensor_msgs.msg import LaserScan
+
+
+
+def movebase_client(x, y):
+    client = actionlib.SimpleActionClient('move_base', MoveBaseAction)
+    client.wait_for_server()
+    rospy.loginfo('got server')
+    goal = MoveBaseGoal()
+    goal.target_pose.header.frame_id = "odom"
+    goal.target_pose.header.stamp = rospy.Time.now()
+    goal.target_pose.pose.position.x = x
+    goal.target_pose.pose.position.y = y
+    goal.target_pose.pose.position.z = 0.0
+    goal.target_pose.pose.orientation.x = 0.0
+    goal.target_pose.pose.orientation.y = 0.0
+    goal.target_pose.pose.orientation.z = 0.0
+    goal.target_pose.pose.orientation.w = 0.5
+    client.send_goal(goal)
+    rospy.loginfo('sent goal')
+    rospy.loginfo(goal)
+    client.wait_for_result()
+    return client.get_re#print valuesult()
+
+
+if __name__ == '__main__':
+    try:
+        rospy.init_node('simple_nav_goal')
+
+        #make pub a global variable
+        global pub 
+        pub = rospy.Publisher('cmd_vel',Twist)
+        result = movebase_client(2, 0)
+        rospy.spin()
+        #print result
+
+    except rospy.ROSInterruptException:
+        print "interrupted"

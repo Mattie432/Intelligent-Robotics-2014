@@ -1,0 +1,2 @@
+#!/bin/bash
+gnome-terminal --tab --working-directory="/data/private/robot/" -e "roscore" --tab --working-directory="/data/private/robot/" -e "roslaunch socspioneer p2os_telop_joy.launch"

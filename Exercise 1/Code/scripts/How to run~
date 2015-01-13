@@ -1,0 +1,4 @@
+to run this code:
+1. roscore
+2. roslaunch socspioneer p2os_laser.launch
+3. rosrun ex1 test.py

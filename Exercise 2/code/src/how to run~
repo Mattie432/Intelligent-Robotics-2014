@@ -1,0 +1,16 @@
+How to run
+
+roscore
+roslaunch socspioneer p2os_laser.launch
+roslaunch socspioneer teleop_joy.launch
+rosrun map_server map_server /data/private/ros/socspioneer/lgfloor.ymal
+rosrun pf_localization node.py
+rosrun rviz rviz
+
+	in rviz
+	Set fixed frame to map
+	add Pose Array (topic = particalcloud)
+	add map (topic = map)
+	click 2d pose button on map
+
+press white button on robot

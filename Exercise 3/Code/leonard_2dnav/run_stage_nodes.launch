@@ -1,0 +1,14 @@
+
+<launch>
+  <master auto="start"/>
+
+  <!-- Run Stage -->
+  <node name="stageros" pkg="stage" type="stageros" args="$(find socspioneer)/lgfloor.world" />
+  <!-- Run Rviz -->
+  <node name="rviz" pkg="rviz" type="rviz" />
+  <!-- Run the map server -->
+  <node name="map_server" pkg="map_server" type="map_server" args="$(find socspioneer)/lgfloor.yaml" />
+  <!--- Run AMCL -->
+  <node name="amcl" pkg="amcl" type="amcl" args="scan:=base_scan" />
+
+</launch>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/int-robot/course/!svn/ver/13/navigation-stack/robot_params
+END
+costmap_common_params.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/int-robot/course/!svn/ver/13/navigation-stack/robot_params/costmap_common_params.yaml
+END
+local_costmap_params.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/int-robot/course/!svn/ver/13/navigation-stack/robot_params/local_costmap_params.yaml
+END
+base_local_planner_params.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/int-robot/course/!svn/ver/13/navigation-stack/robot_params/base_local_planner_params.yaml
+END
+global_costmap_params.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/int-robot/course/!svn/ver/13/navigation-stack/robot_params/global_costmap_params.yaml
+END

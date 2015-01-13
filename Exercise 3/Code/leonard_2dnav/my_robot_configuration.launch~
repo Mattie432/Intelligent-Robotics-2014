@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="p2os_laser" type="sensor_node_type" name="sensor_node_name" output="screen">
+		<param name="sensor_param" value="param_value" />
+	</node>
+</launch>

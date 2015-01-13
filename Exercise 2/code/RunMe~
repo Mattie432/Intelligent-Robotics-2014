@@ -1,0 +1,9 @@
+#!/bin/bash
+pkill roscore
+gnome-terminal --tab --working-directory="/" -e "bash -c \"roscore;exec bash\"" --tab --working-directory="/" -e "bash -c \"sleep 3s;roslaunch socspioneer p2os_laser.launch;exec bash\"" --tab --working-directory="/" -e "bash -c \"sleep 3s;roslaunch socspioneer teleop_joy.launch;exec bash\"" --tab --working-directory="/" -e "bash -c \"sleep 3s;rosrun map_server map_server /data/private/ros/socspioneer/lgfloor.yaml;exec bash\"" --tab --working-directory="/" -e "bash -c \"sleep 5s;rosrun rviz rviz;exec bash\"" --tab --working-directory="/" -e "bash -c \"sleep 3s;rosrun stage_ros stageros /data/private/ros/socspioneer/lgfloor.world;exec bash\"" --tab --working-directory="/" -e "bash -c \"sleep 3s;rosrun pf_localisation node.py;exec bash\"" --tab --working-directory="/" -e "bash -c \"sleep 3s;roslaunch socspioneer keyboard_teleop.launch;exec bash\"" 
+
+
+
+#to run this file command ". RunMe" in the dir containing it
+
+# new tab command = --tab --working-directory="/" -e "bash -c \"COMMAND_GOES_HERE;exec bash\""
