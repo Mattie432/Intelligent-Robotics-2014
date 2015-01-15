@@ -1,6 +1,7 @@
 # Intelligent-Robotics-2014
 Collection of solutions to exercises given as part of the "Introduction to Robotics" University Module.
 
+![Image of Leonard the robot](https://mattie432.github.io/Intelligent-Robotics-2014/img/robot_full.png)
 ## Team Members
 
 [alexbor](https://github.com/alexbor)
