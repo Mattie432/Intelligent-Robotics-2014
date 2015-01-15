@@ -1,79 +1,313 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Intelligent-robotics-2014 : Inteligent robotics university module">
+<!-- Mirrored from demo.alexbor.com/robot/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Jan 2015 18:36:19 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Leonard Intelligent Robotics - 2014/15</title>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/site.css" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 
-    <title>Intelligent-robotics-2014</title>
+    <link href="vjs.zencdn.net/4.11/video-js.css" rel="stylesheet">
+    <script src="vjs.zencdn.net/4.11/video.js"></script>
   </head>
+<body>
+<header>
+<div id="container_top">
+  <div class="container">
+    <div class="col-sm-12" id="top">
+      <div id="logo" class="col-sm-5">
+        <h1>Leonard - Intelligent Robotics</h1>
+      </div>
+      <nav id="top_nav" class="col-sm-7">
+        <ul>
+          <li><a href="#image_switcher">To Top</a></li>
+          <li><a href="#task">Abstract</a></li>
+          <li><a href="#team">Meet the Team</a></li>
+          <li><a href="#solution">Solutions</a></li>
+          <li><a href="#advice">Advice for Future Teams</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
+</header>
+<div class="container" id="first_block">
+  <div class="col-xs-12" id="main_img">
+    <img src="img/robot_full.png" id="image_main" width="100%" />
+  </div>
 
-  <body>
+<div id="image_switcher">
+  <div class="col-sm-3 active_tab tabs">
+    <img src="img/robot_small.png" data-full="img/robot_full.png" width="100%" />
+  </div>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/Mattie432/Intelligent-Robotics-2014">View on GitHub</a>
-
-          <h1 id="project_title">Intelligent-robotics-2014</h1>
-          <h2 id="project_tagline">Inteligent robotics university module</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/Mattie432/Intelligent-Robotics-2014/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/Mattie432/Intelligent-Robotics-2014/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
+    <div class="col-sm-3 tabs">
+      <img src="img/laptop_small.png" data-full="img/laptop_full.png" width="100%" />
     </div>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
-
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>
-<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>
-<a id="rather-drive-stick" class="anchor" href="#rather-drive-stick" aria-hidden="true"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="https://help.github.com/pages">https://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
+    <div class="col-sm-3 tabs">
+      <img src="img/rivitz_small.png" data-full="img/rivitz_full.png" width="100%" />
     </div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Intelligent-robotics-2014 maintained by <a href="https://github.com/Mattie432">Mattie432</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
+    <div class="col-sm-3 tabs">
+      <img src="img/robot_video.png" data-full="FADE_OVER" data-toggle="modal" data-target="#myModal" width="100%" />
     </div>
+  </div>
 
-    
 
-  </body>
+</div>
+
+<div class="container" id="task">
+    <div id="team_section_title" class="title_section">
+      <h3>Abstract</h3>
+    </div>
+    <div class="col-sm-12" style="margin-top: 30px">
+      <p>Mobile robots are regularly used in many applications: from aiding disaster recovery efforts in mines and after earthquakes, to military uses such as roadside bomb detection. Recently, they have even been employed to explore the surface of Mars. This website presents the (condensed) design and development of a Mobile Robot inspired by the AAAI Mobile Robotics Competition, 1996: “Call a Meeting”, which stressed navigation and planning.  For our solution to the competition, we present an autonomous Mobile Robot that (a) searches for and finds an empty room (in terms of human presence) b) detects a human in a different room c) directs the human to the empty room. Our setup included a Pioneer 3-DX mobile robot, a Hokuyo URG-04LX laser sensor and a Toshiba i3 / 2GB RAM laptop. Notable features of our solution include a behavioural-based hybrid control architecture, ACML localization and a laser-based leg detection system for identifying persons.</p>
+    </div>
+</div>
+
+<div class="container" id="team">
+  <div id="team_section_title" class="title_section">
+    <h3>Meet The Team</h3>
+  </div>
+
+  <div id="team_members">
+      <div class="col-sm-3">
+        <img src="img/alex.jpg" width="100%" />
+        <h3 class="person_name">Alex Bor</h3>
+        <p>
+           Currently in 3rd year studying for an undergraudate course at the University of Birmingham.
+        </p>
+      </div>
+
+      <div class="col-sm-3">
+        <img src="img/laurence.jpg" width="100%" />
+        <h3 class="person_name">Laurence Stokes</h3>
+        <p>
+          Currently in 3rd year studying for an undergraudate course at the University of Birmingham.
+        </p>
+      </div>
+
+      <div class="col-sm-3">
+        <img src="img/matt.jpg" width="100%" />
+        <h3 class="person_name">Matt Flint</h3>
+        <p>
+          Currently in 3rd year studying for an undergraudate course at the University of Birmingham.
+        </p>
+      </div>
+
+      <div class="col-sm-3">
+        <img src="img/rob.jpg" width="100%" />
+        <h3 class="person_name">Rob Manford</h3>
+        <p>
+          Currently in 3rd year studying for an undergraudate course at the University of Birmingham.
+        </p>
+      </div>
+  </div>
+</div>
+
+<div class="container" id="solution">
+  <div id="method_section_title" class="title_section">
+    <h3>Solutions</h3>
+  </div>
+
+  <div class="col-sm-3">
+    <div class="circle_around"><span class="glyphicon glyphicon-plane" aria-hidden="true"></span></div>
+    <h3 class="person_name">Hardware</h3>
+    <p>The Pioneer 3DX (P3-DX) is one of the most popular research robots [1] and the model we used.  It is a “compact differential-drive mobile robot and is fully assembled with an embedded controller, motors with 500-tick encoders, 19cm wheels, a tough aluminum body, 8 forward-facing ultrasonic (sonar) sensors, 8 optional rear-facing sonar, and 1, 2 or 3 hot-swappable batteries” [2]. <span id="hardware_continue" style="display: none"><br />Because of its modest and balanced size combined with reasonable hardware, it is best suited for indoor navigation [1]. The robot was additionally equipped with a Hokuyo URG-04LX laser sensor, which can report obstacles in ranges from 20mm to 5600mm (with a 1 mm resolution) in a 240° arc (with a 0.36° angular resolution). It has a scanning time of 100ms/scan [3].</span></p>
+    </p>
+
+     <a class="btn btn-default btn-md btn-block" id="more_hardware">More on hardware</a>
+  </div>
+
+
+  <div class="col-sm-3">
+    <div class="circle_around"><span class="glyphicon glyphicon-asterisk" aria-hidden="true"></span></div>
+    <h3 class="person_name">Software</h3>
+    <p>The software we used was the Robot Operating System (ROS),  a Linux based software framework for operating robots [4]. It is open source and multi-lingual [4], and has language support for  C++, Python, Octave, and LISP, and experimental ports for Java and Lua [5]. We used python (2.7) for our programming needs. <span id="software_continue" style="display: none"><br /> The core concepts of ROS are packages, nodes, topics, messages and services. A node is an executable program that takes data from the robot's sensors and passes it to other nodes. Nodes communicate with each other through strictly typed data structures called messages. Messages always travel via special ports called topics, which are strings such as ‘odometry’ or ‘map’. A node that is interested in a certain kind of data will subscribe to the appropriate topic. There may be multiple concurrent publishers and subscribers for a single topic, and a single node may publish and/or subscribe to multiple topics [4]. All related nodes are combined in one package that can easily be compiled and ported to other systems. The packages are necessary to build a complete ROS-based autonomous robot control system [1].</span></p>
+    <a class="btn btn-default btn-md btn-block" id="more_software">More on Software</a>
+  </div>
+
+  <div class="col-sm-3" id="control_section">
+    <div class="circle_around"><span class="glyphicon glyphicon-tower" aria-hidden="true"></span></div>
+    <h3 class="person_name">Control</h3>
+    <p>For the overall control design we followed a behaviourally inspired hybrid approach. We felt this best fit the problem scope; we knew exactly what tasks we needed to execute (and in what order), and we were dealing with a semi-structured environment. Our challenge was thus to integrate the a-priori world knowledge with reactive behaviours such as obstacle avoidance. <span class="control_continue" style="display: none;"><br />
+
+Our hierarchical planner was structured into a series of sequential steps as per the task requirements. These are, in order: <br/></span>
+
+<ol style="display: none; color: #828185" class="control_continue">
+<li> Localise in respect to the map</li>
+<li> Navigate to the hard-coded coordinates of the first room and position to scan the room.</li>
+<li> Scan the room checking for the presence of people</li>
+<li> IF person detected and confirmed, goto 5</li>
+<li> ELSE set first room as the ‘meeting’ room and goto 8.</li>
+<li> Navigate to the coordinates of the second room and position to scan the room.</li>
+<li> IF person detected and confirmed, goto 8.</li>
+<li> ELSE set second room as the ‘meeting’ room and goto 2.</li>
+<li> Roam the area searching for people.</li>
+<li> Upon detecting a person ask them if they would like to attend the meeting.</li>
+<li>  IF person confirms then drive back to the meeting room then goto 8</li>
+<li>  ELSE goto 8 (continue roaming)</li>
+</ol>
+<span class="control_continue" style="display: none; color: #828185">
+
+During execution of the plan steps, appropriate reactive behaviours and responses are selected according to the robot’s peripheral environment as reported by the sensors. The navigation algorithm, for example, selects a point-to-point path consistent with the plan specification and a perceptually running obstacle avoidance algorithm results in the robot avoiding any local and unforeseen obstacles.</span></p>
+    <a class="btn btn-default btn-md btn-block" id="more_control">More on Control</a>
+  </div>
+
+
+  <div class="col-sm-3">
+    <div class="circle_around"><span class="glyphicon glyphicon-refresh" aria-hidden="true"></span></div>
+    <h3 class="person_name">Navigation</h3>
+    <p>For Navigation, we used the ROS Navigation Stack,  described as “a 2D navigation stack that takes in information from odometry, sensor streams, and a goal pose and outputs safe velocity commands that are sent to a mobile base” [6].  It uses ACML for localisation and position tracking (when supplied with an a-priori map), and a grid-based costmap for motion planning [8]. </p>
+  </div>
+</div>
+<div class="container">
+
+
+<div class="col-sm-3">
+    <div class="circle_around"><span class="glyphicon glyphicon-road" aria-hidden="true"></span></div>
+    <h3 class="person_name">Exploration</h3>
+    <p>We tested two possible exploration strategies for our robot. One strategy was allowing the robot to free roam and the other was setting a fixed path through hard-coded points. Through qualitative experimentation we found the fixed point approach to be more suited to the task. <span id="explore_continue" style="display: none">Whilst it covered less area in absolute terms than the random ‘free roaming’ navigation strategy, the areas covered were more sensible to the problem scope (such as corridors as opposed to corners and dead-ends) and also covered significantly faster.</span></p>
+    <a class="btn btn-default btn-md btn-block" id="more_explore">More on Exploration</a>
+  </div>
+
+  <div class="col-sm-3">
+    <div class="circle_around"><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span></div>
+    <h3 class="person_name">Localisation</h3>
+    <p>As a team we decided to adopt the ACML localisation implementation included as part of the ROS Navigation Stack package over a bespoke MCL implementation we had previously developed. The rationale of using a Monte Carlo approach to localisation is clear: they don’t possess the independence assumption of Markov localisation techniques (in their basic implementations), and unlike Kalman filters (again, in their basic implementations), particle filters can approximate a wide variety of probability distributions, not just gaussian distributions. <span id="local_continue" style="display: none">They are also computationally efficient, as they focus resources on regions in state space with high likelihood [7]. <br />
+
+The immediate advantage of the ACML implementation over our MCL approach is that it uses adaptive sampling (adjusting the sample size during the localisation process).</span></p>
+    <a class="btn btn-default btn-md btn-block" id="more_local">More on Localisation</a>
+  </div>
+
+
+  <div class="col-sm-3">
+    <div class="circle_around"><span class="glyphicon glyphicon-th" aria-hidden="true"></span></div>
+    <h3 class="person_name">Obstacle Avoidance</h3>
+    <p>Obstacle avoidance is included as default in the ROS Navigation Stack and has been proven to be robust. Obstacles are inferred strictly from geometric information from range sensors that can produce point clouds [27]. In our case, this was the front-mounted Hokuyo laser. </p>
+  </div>
+
+
+
+
+  <div class="col-sm-3">
+    <div class="circle_around"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></div>
+    <h3 class="person_name">People Detection</h3>
+    <p>The solution we adopted is laser-based leg detection system that uses the front-mounted laser scanner and was taken from the thesis work of one of the module demonstrators, Marco Becerra.  Marco’s work is itself based on the work of Nicola Bellotto and Huosheng Hu, available at [9].<span id="people_continue" style="display: none"> <br />
+
+The basic premise of the detection algorithm is to identify typical patterns (relative to particular leg postures) that, in most of the cases, are well distinguishable from the other objects in the environment. These patterns correspond to the following three typical situations: two legs apart (LA), forward straddle (FS), and two legs together or (SL). The first pattern is usually very common in case the person is standing in front of the robot. The second, however, is most likely to happen when the person is walking. The last pattern covers most of the remaining possible postures. The results of the laser scan are preprocessed into a string pattern, and then checked for likeness to any of the typical leg patterns (subject to standard human dimensions - e.g. a leg cannot be 10 meters wide) through regular expression matching.</span></p>
+    <a class="btn btn-default btn-md btn-block" id="more_people">More on People Detection</a>
+  </div>
+</div>
+
+
+<div class="container" id="advice">
+  <div id="" class="title_section">
+    <h3>Advice for future teams</h3>
+  </div>
+<ul>
+<li>Start Early: Start the project early and set up a tangible work frame around the assigned lab hours</li>
+
+<li>Divide and Conquer: Have a good division of labour between your team members (perhaps attacking subtasks of the overall problem), so effort is well distributed and each member feels included and relevant.</li>
+
+<li>Communication platforms: Have a good channel of communication between members, e.g a facebook or skype group conversation.</li>
+
+<li>Experiment!: Test your robot and methods. Not only is this required in the marking criteria, but it helps you understand how to tweak your methods and detect problems. It also prepares you for the final demo!</li>
+
+
+<li>Read and appreciate the background material. Knowing how everything works from a theoretical point of view makes the subtasks, and by extension, the entire task, a lot more understandable.</li>
+
+</ul>
+</div>
+
+
+<div class="container" id="references">
+  <div id="method_section_title" class="title_section">
+    <h3>REFERENCES</h3>
+  </div>
+
+<ol>
+
+<li>Zaman, S.; Slany, W.; Steinbauer, G., "ROS-based mapping, localization and autonomous navigation using a Pioneer 3-DX robot and their relevant issues," Electronics, Communications and Photonics Conference (SIECPC), 2011 Saudi International , vol., no., pp.1,5, 24-26 April 2011 doi: 10.1109/SIECPC.2011.5876943. Available: http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=5876943 [Online] (Accessed 02/12/2014)
+‘Pioneer P3-DX’, Adept Mobile Robots, Available: http://mobilerobots.com/ResearchRobots/PioneerP3DX.aspx [Online] (Accessed 02/12/2014)</li>
+
+
+<li>‘Pioneer P3-DX’, Adept Mobile Robots, Available: http://mobilerobots.com/ResearchRobots/PioneerP3DX.aspx [Online] (Accessed 02/12/2014)</li>
+
+
+<li>Scanning Range Finger (sokuiki sensor), hokuyo-apt.jpt, Available: https://www.hokuyo-aut.jp/02sensor/07scanner/urg_04lx.html [Online] (Accessed 02/12/2014)</li>
+
+
+<li>M. Quigley, B. Gerkey, K. Conley, J. Faust, T. Foote, J. Leibs, E. Berger, R. Wheeler, A. Ng, ‘ROS: an open-source Robot Operating System’ Computer Science Department, University of Southern California. Available: http://ai.stanford.edu/~ang/papers/icraoss09-ROS.pdf [Online] (Accessed 02/12/2014)</li>
+
+
+<li>‘What is ROS’, ROS.org, Available: http://wiki.ros.org/ROS/Introduction [Online] (Accessed 02/12/2014)</li>
+
+
+<li>‘Navigation Package Summary’, ROS.org, Available: http://wiki.ros.org/navigation [Online] (Accessed 02/12/2014)</li>
+
+
+<li>‘Particle Filters for Robot Localisation’, D. Fox et al. Available: http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=547840CC2F7B99B070728AE1B1531BA1?doi=10.1.1.1.9914&amp;rep=rep1&amp;type=pdf  [Online] (Accessed 24/11/2014)</li>
+
+
+<li>Marder-Eppstein, E., Berger, E., Foote, T., Gerkey, B. and Konolige, K. (2010). ‘The Office Marathon: Robust navigation in an indoor office environment. 2010 IEEE International Conference on Robotics and Automation.’ Available: http://wiki.ros.org/Papers/ICRA2010_Marder-Eppstein?action=AttachFile&amp;do=view&amp;target=icra2010_marder-eppstein.pdf (Accessed 29/12/2014)</li>
+
+
+<li>Bellotto, N. and Huosheng Hu, (2009). ‘Multisensor-Based Human Detection and Tracking for Mobile Service Robots’. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 39(1), pp.167-181. Available: http://webpages.lincoln.ac.uk/nbellotto/doc/Bellotto2009.pdf (Accessed 29/12/2014)</li>
+</ol>
+
+<footer>
+  <div class="container">
+  &copy; 2015 Intelligent Robotics - Team Leonard
+
+  </div>
+</footer>
+
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Robot Video</h4>
+      </div>
+      <div class="modal-body">
+        <video id="example_video_1" style="margin: 0 auto;" class="video-js vjs-default-skin"
+          controls preload="auto" width="510px" height="264"
+          poster="img/robot_full.png"
+          data-setup='{"example_option":true}'>
+         <source src="vid/Robot.mp4" type='video/mp4' />
+         <source src="vid/Robot.webm" type='video/webm' />
+         <source src="vid/Robot.html" type='video/ogg' />
+         <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+        </video>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+    <script src="ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+
+<!-- Mirrored from demo.alexbor.com/robot/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Jan 2015 18:37:46 GMT -->
 </html>
