@@ -4,7 +4,7 @@ Collection of solutions to exercises given as part of the "Introduction to Robot
 ![Image of Leonard the robot](https://mattie432.github.io/Intelligent-Robotics-2014/img/robot_full.png)
 ## Team Members
 
-[alexbor](https://github.com/alexbor)
+[alexbor](https://github.com/alexbor) 
 
 [Mattie432](https://github.com/Mattie432)
 
